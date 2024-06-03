@@ -22,6 +22,16 @@ import Feature2 from "../images/home/features/specially-developed-curriculum.png
 import Feature3 from "../images/home/features/24-7-assistance-available.png";
 import Feature4 from "../images/home/features/learning-from-nature.png";
 import Feature5 from "../images/home/features/Capturing-the-true-spirit-of-ahmedabad.png";
+import Proslide1 from "../images/home/our-programs/slider-1.png";
+import Proslide2 from "../images/home/our-programs/slider-2.png";
+import Proslide3 from "../images/home/our-programs/slider-3.png";
+import Proslide4 from "../images/home/our-programs/slider-4.png";
+import titleBenefit from "../images/home/franchise-opportunity/benefits-of-partnering-with-aj.png";
+import MorePink from "../images/home/more-pink.png";
+import HirePink from "../images/home/teachers-training/hire-teachers.png";
+import TeachersTrainingImg from "../images/home/teachers-training/2.webp";
+import PhilosophyImg1 from "../images/home/philosophy/1.png";
+import PhilosophyImg2 from "../images/home/philosophy/2.png";
 
 export default function Home() {
   return (
@@ -253,6 +263,202 @@ export default function Home() {
         <div className="more-brown">
           <a href="">
             <Image src={MoreCamp} alt="img" className="img-fluid" />
+          </a>
+        </div>
+      </section>
+      {/* Ahmedabad-juniors-philosophy-section */}
+      <section className="ahmedabad-juniors-philosophy-section">
+        <div className="container">
+          <div className="d-flex justify-content-center">
+            <Image src={PhilosophyImg1} alt="img" className="img-fluid" />
+          </div>
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="d-flex justify-content-center ms-5">
+                <Image src={PhilosophyImg2} alt="img" className="img-fluid" />
+              </div>
+            </div>
+            <div className="col-lg-6 d-flex flex-column justify-content-between">
+              <div>
+                <h2>
+                  <span>Ahmedabad</span>
+                  Juniors&apos;{" "}
+                  <span className="philosophy-text">Philosophy</span>
+                </h2>
+              </div>
+              <div>
+                <h6>
+                  We are educationalists, having a legacy of certain values and
+                  skills that allow us to go anywhere in the world and be
+                  successful in whatever work we choose to do.
+                </h6>
+                <p>
+                  We want to inculcate these skills and values in children from
+                  the beginning of their student life. We aspire to create
+                  confident personalities, opinion makers, leaders and enable
+                  them to stand up for the society.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      {/* Benefits-of-partnering section */}
+      <section className="benefits-of-partnering">
+        <div className="container">
+          <h2 className="text-center">
+            <Image src={titleBenefit} alt="img" className="img-fluid" />
+          </h2>
+          <div className="row">
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Infrastructure & <br /> ambience design <br />
+                (set up support)
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Day to <br /> day guidance
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Equipment and <br /> teaching aids
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Researched <br />
+                curriculum
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Teachers <br /> training and <br />
+                assessment
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Marketing and <br /> Operational <br />
+                support
+              </div>
+            </div>
+          </div>
+          <div class="row d-flex justify-content-center mt-4">
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Advertisement <br />
+                support
+              </div>
+            </div>{" "}
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Continuous <br />
+                Research and <br /> development
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Social Media <br /> support
+              </div>
+            </div>{" "}
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Support and <br />
+                guidance in <br />
+                organising events
+              </div>
+            </div>
+            <div className="col-lg-2">
+              <div className="bg-benefits">
+                Lead <br />
+                management <br /> support
+              </div>
+            </div>{" "}
+          </div>
+        </div>
+        <div className="more-pink">
+          <a href="">
+            <Image src={MorePink} alt="img" className="img-fluid" />
+          </a>
+        </div>
+      </section>
+      {/* Our-programs section */}
+      <section className="our-programs-section">
+        <div className="container">
+          <h4>Our Programs</h4>
+          <p>
+            We have specially designed programs to help your child learn &
+            develop. Age appropriate curriculum has been designed which isfull
+            of activities and fun learning. Our experts have made sure that
+            curriculum meets the individual needs of our tiny tots and healthy
+            mix of indoor and outdoor activities ensures your child gets the
+            best learning experience.
+          </p>
+        </div>
+        <div id="carouselExampleFade" className="carousel slide carousel-fade">
+          <div className="carousel-inner">
+            <div className="carousel-item active">
+              <Image
+                src={Proslide1}
+                className="d-block w-100 img-fluid"
+                alt="..."
+              />
+            </div>
+            <div className="carousel-item">
+              <Image
+                src={Proslide2}
+                className="d-block w-100 img-fluid"
+                alt="..."
+              />
+            </div>
+            <div className="carousel-item">
+              <Image
+                src={Proslide3}
+                className="d-block w-100 img-fluid"
+                alt="..."
+              />
+            </div>
+            <div className="carousel-item">
+              <Image
+                src={Proslide4}
+                className="d-block w-100 img-fluid"
+                alt="..."
+              />
+            </div>
+          </div>
+          <button
+            className="carousel-control-prev"
+            type="button"
+            data-bs-target="#carouselExampleFade"
+            data-bs-slide="prev"
+          >
+            <Image src={PreImg} alt="icon" />
+            <span className="visually-hidden">Previous</span>
+          </button>
+          <button
+            className="carousel-control-next"
+            type="button"
+            data-bs-target="#carouselExampleFade"
+            data-bs-slide="next"
+          >
+            <Image src={NextImg} alt="icon" />
+            <span className="visually-hidden">Next</span>
+          </button>
+        </div>
+      </section>
+
+      {/* Teachers-training Section */}
+
+      <section className="teachers-training-section">
+        <div>
+          <h4>Teachers Training</h4>
+          <Image src={TeachersTrainingImg} alt="img" className="img-fluid" />
+        </div>
+        <div className="hire-expert-pink">
+          <a href="">
+            <Image src={HirePink} alt="img" className="img-fluid" />
           </a>
         </div>
       </section>
