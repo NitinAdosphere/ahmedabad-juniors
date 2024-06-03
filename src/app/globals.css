@@ -1,7 +1,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courgette:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
 
 :root {
   --font-laila: "Laila", sans-serif;
+  --font-courgette: "Courgette", sans-serif;
 }
 * {
   padding: 0;
@@ -11,4 +13,9 @@ body {
   font-family: var(--font-laila);
   max-width: 100vw;
   overflow-x: hidden;
+}
+h1,
+h2,
+h3 {
+  font-family: var(--font-courgette);
 }

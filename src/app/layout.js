@@ -1,5 +1,8 @@
 import "./globals.css";
 import { latin, Laila } from "next/font/google";
+import "bootstrap/dist/css/bootstrap.css";
+import Navbar from "@/components/navbar/Navbar";
+import Script from "next/script";
 
 const laila = Laila({
   subsets: ["latin"],
@@ -15,7 +18,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en" className={laila.className}>
-      <body className={laila.className}>{children}</body>
+      <body className={laila.className}>
+        <Navbar />
+        {children}
+      </body>
+      <Script src="/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
     </html>
   );
 }

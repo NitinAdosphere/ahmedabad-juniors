@@ -1,5 +1,80 @@
 @import url("https://fonts.googleapis.com/css2?family=Laila:wght@300;400;500;600;700&family=Poppins:wght@300;400;500;600;700&display=swap");
 
-.banner-carousel-section div {
-  background-color: aqua;
+.banner-carousel-section {
+  margin-top: -40px;
+}
+.carousel-control-prev,
+.carousel-control-next {
+  width: 8%;
+}
+/*#### Features section ####*/
+.features-section {
+  position: relative;
+  z-index: 1;
+  padding-bottom: 60px;
+}
+.features-section::before {
+  background-image: url(/images/features-bg.png);
+  content: "";
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: 0 0;
+  z-index: -1;
+  position: absolute;
+  top: -50px;
+  width: 100%;
+  height: 240px;
+}
+.features-section .features-item {
+  padding: 0 30px;
+  text-align: center;
+  margin-top: -70px;
+}
+.features-section .features-item img {
+  margin-bottom: 10px;
+}
+.features-section .features-item h6 {
+  color: #2e2e2e;
+  font-size: 18px;
+  line-height: 24px;
+  display: block;
+}
+
+/*#### About-as section ####*/
+.about-us-section h2 {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 34px;
+  margin-bottom: 0;
+  color: #e3007c;
+  text-align: center;
+  margin-bottom: 32px;
+  margin-top: 32px;
+}
+.about-us-section p {
+  color: #2e2e2e;
+  font-size: 18px;
+}
+
+/*#### About-as section ####*/
+.our-campus-section {
+  padding: 60px 0;
+}
+.our-campus-section h2 {
+  margin-bottom: 30px;
+}
+.our-campus-section .camp-img {
+  margin-bottom: 30px;
+}
+.our-campus-section .camp-img h6 {
+  display: block;
+  color: #2e2e2e;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px;
+}
+.our-campus-section .more-brown {
+  display: flex;
+  justify-content: end;
+  margin-right: 80px;
 }
