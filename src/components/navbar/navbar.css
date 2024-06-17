@@ -5,7 +5,7 @@
 .navbar {
   z-index: 1;
 }
-.navbar:before {
+.navbar::before {
   position: absolute;
   bottom: -40px;
   width: 100%;
@@ -17,6 +17,9 @@
   z-index: -1;
   content: "";
   left: 0;
+}
+.navbar-without-bg::before {
+  background-image: none !important;
 }
 .navbar ul li > a {
   color: #121413;

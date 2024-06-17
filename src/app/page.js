@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import "./home.css";
 import slide1 from "../images/home/slider/slider-0.jpg";
@@ -17,6 +18,7 @@ import camp4 from "../images/home/about-us/our-others-campuses/divyapath-campus-
 import camp5 from "../images/home/about-us/our-others-campuses/nest-public-school-ranip.png";
 import camp6 from "../images/home/about-us/our-others-campuses/new-dp-campus-new-ranip.png";
 import MoreCamp from "../images/home/more-brown.png";
+import MoreBlogs from "../images/home/more-purple.png";
 import Feature1 from "../images/home/features/safe-and-hygienic-environment.png";
 import Feature2 from "../images/home/features/specially-developed-curriculum.png";
 import Feature3 from "../images/home/features/24-7-assistance-available.png";
@@ -32,6 +34,8 @@ import HirePink from "../images/home/teachers-training/hire-teachers.png";
 import TeachersTrainingImg from "../images/home/teachers-training/2.webp";
 import PhilosophyImg1 from "../images/home/philosophy/1.png";
 import PhilosophyImg2 from "../images/home/philosophy/2.png";
+import FranchiseTitle from "../images/home/franchise-opportunity/why-ahmedabad-juniors-title.webp";
+import Blogs from "./blogs/page";
 
 export default function Home() {
   return (
@@ -302,6 +306,50 @@ export default function Home() {
             </div>
           </div>
         </div>
+        <div className="more-philosophy-purple">
+          <a href="">
+            <Image src={MoreBlogs} alt="img" className="img-fluid" />
+          </a>
+        </div>
+      </section>
+      {/* franchise-opportunity-section */}
+      <section className="franchise-opportunity-section">
+        <div className="container">
+          <div className="d-flex justify-content-center">
+            <h2>Franchise Opportunity</h2>
+          </div>
+          <div className="d-flex justify-content-center">
+            <Image
+              src={FranchiseTitle}
+              alt="franchiseTitle-img"
+              className="img-fluid"
+            />
+          </div>
+
+          <div className="row">
+            <div className="col">
+              <div className="franchise-opportunity-info">
+                <p>
+                  <span>Ahmedabad Juniors </span>is a part of 3 decades old
+                  legacy with an experience of more than 38 years in educational
+                  field. We have nurtured more than 1 lac kids. You can use
+                  well-established brand name for which research and hard work
+                  has been done for number of years. Get all the knowhow of
+                  infrastructure, educational technology, marketing at national,
+                  state and local level for which dedicated team is working
+                  round the clock.
+                </p>
+                <p>
+                  Expert parenting sessions for the young parents is a special
+                  and unique feature of AJ which directly helps entrepreneurs
+                  like you to attract admissions and hence better returns. Gain
+                  from our years of expertise. Reap benefits. Successful
+                  business model. Be a part of the educationist family
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
       </section>
       {/* Benefits-of-partnering section */}
       <section className="benefits-of-partnering">
@@ -345,7 +393,7 @@ export default function Home() {
               </div>
             </div>
           </div>
-          <div class="row d-flex justify-content-center mt-4">
+          <div className="row d-flex justify-content-center mt-4">
             <div className="col-lg-2">
               <div className="bg-benefits">
                 Advertisement <br />
@@ -459,6 +507,18 @@ export default function Home() {
         <div className="hire-expert-pink">
           <a href="">
             <Image src={HirePink} alt="img" className="img-fluid" />
+          </a>
+        </div>
+      </section>
+
+      {/* Blog- Section */}
+      <section className="blog-section">
+        <h2 className="blog-title">Blog</h2>
+        <Blogs totalBlog={2} />
+
+        <div className="more-purple">
+          <a href="">
+            <Image src={MoreBlogs} alt="img" className="img-fluid" />
           </a>
         </div>
       </section>
