@@ -86,6 +86,7 @@
 
 /*#### Ahmedabad-juniors-philosophy-section ####*/
 .ahmedabad-juniors-philosophy-section {
+  position: relative;
   padding: 60px 0;
 }
 .ahmedabad-juniors-philosophy-section h2 {
@@ -117,6 +118,37 @@
   margin-bottom: 15px;
   font-weight: 300;
   color: #2e2e2e;
+}
+.more-philosophy-purple {
+  position: absolute;
+  bottom: 0px;
+  right: 60px;
+  z-index: 9;
+}
+/*#### Franchise Opportunity ####*/
+
+.franchise-opportunity-section h2 {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 34px;
+  margin-bottom: 0;
+  margin-bottom: 30px;
+}
+.franchise-opportunity-section .franchise-opportunity-info span {
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #2e2e2e;
+}
+.franchise-opportunity-section img {
+  margin-bottom: 30px;
+}
+.franchise-opportunity-section .franchise-opportunity-info p {
+  font-size: 18px !important;
+  margin-bottom: 15px;
+  font-weight: 300;
+  font-family: var(--font-laila);
+  color: #2e2e2e;
+  line-height: 24px;
 }
 /*#### Benefits-of-partnering ####*/
 .benefits-of-partnering {
@@ -197,4 +229,25 @@
   position: absolute;
   bottom: 0;
   right: 80px;
+}
+
+/*#### Blog section ####*/
+.blog-section {
+  position: relative;
+  padding: 60px 0;
+}
+.blog-section .blog-title {
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 34px;
+  margin-bottom: 0;
+  color: #000;
+  text-align: center;
+  font-family: var(--font-courgette);
+}
+.blog-section .more-purple {
+  position: absolute;
+  bottom: 50px;
+  right: 60px;
+  z-index: 9;
 }

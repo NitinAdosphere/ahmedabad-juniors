@@ -1,5 +1,7 @@
+"use client";
 import Image from "next/image";
 import React from "react";
+import { usePathname } from "next/navigation";
 import AjLogo from "../../images/common/aj-logo.webp";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 // import { faFacebook } from "@fortawesome/free-brands-svg-icons";
@@ -7,11 +9,18 @@ import AjLogo from "../../images/common/aj-logo.webp";
 import "./navbar.css";
 
 const Navbar = () => {
+  const pathname = usePathname();
+
+  const navbarClassName =
+    pathname !== "/blogs"
+      ? "navbar navbar-expand-lg"
+      : "navbar navbar-without-bg navbar-expand-lg";
+
   return (
     <>
-      <nav className="navbar navbar-expand-lg">
+      <nav className={navbarClassName}>
         <div className="container">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href={"/"}>
             <Image src={AjLogo} alt="" className="img-fluid" />
           </a>
           <button

@@ -1,0 +1,32 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Fuel for the Day: 5 Delicious and Nutritious Tiffin Ideas for Busy Students",
+      "content": "As parents prepare to send their children back to school, packing a healthy and nutritious tiffin box is a top priority. With the abundance of unhealthy snacks and junk food options available, it can be challenging to create tiffin ideas that are both delicious and good for your child's health.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/delicious-and-nutritious-tiffin-ideas.png"
+    },
+    {
+      "id": 2,
+      "title": "Juggling Parenthood and Work: Achieving the Perfect Work-Life Balance",
+      "content": "As a parent, juggling work and family life can often feel like a constant struggle. It can be challenging to find the right balance between your responsibilities at work and your obligations as a parent.",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/juggling-parenthood-and-work.png"
+    },
+    {
+      "id": 3,
+      "title": "Positive, Helicopter, or Free-Range? Which Modern Parenting Style is Right for You?",
+      "content": "Modern parenting styles are often influenced by changing social, cultural, and technological factors. Here are some of the most common modern parenting styles:",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/modern-parenting-style.png"
+    },
+    {
+      "id": 4,
+      "title": "First Day Jitters? Tips to Help Your Child Feel Confident and Excited for School",
+      "content": "Starting school can be a significant transition for young children and their parents. Here are some tips for first-time school-going kids:",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/first-day-jitters.png"
+    }
+  ]
+}
