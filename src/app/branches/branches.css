@@ -1,0 +1,67 @@
+.our-branches-item .inner-page-section-title {
+	color: #fff;
+	margin-bottom: 10px;
+	font-size: 22px;
+	line-height: 22px
+}
+.our-branches-item p {
+	font-size: 20px;
+	color: #eee
+}
+.our-branches-item p a {
+	font-size: 22px;
+	color: #ffc900
+}
+.our-branches-item p a:hover {
+	font-size: 22px;
+	color: #8bd700
+}
+.purple-bg{
+    background-color: #6653b5;
+    padding: 30px 0;
+    margin-top: -20px;
+}
+.content-wrap{
+    position: relative;
+    padding: 0;
+}
+.section-title{
+    margin-top: 40px;
+}
+.section-title h1{
+    text-align: center;
+    color: #fff;
+}
+.col-our-branches {
+    border-right: 1px dashed rgba(255, 255, 255, .3);
+    border-bottom: 1px dashed rgba(255, 255, 255, .3);
+    padding-bottom: 15px;
+    padding-top: 15px;
+    display: table;
+    vertical-align: middle;
+    text-align: center;
+}
+.our-branches-item{
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+.branch-conetnt{
+    padding: 100px 0;
+}
+@media (768px <=width <=1024px){
+    .col-our-branches{
+        border-right: 0;
+        border-bottom: 1px dashed rgba(255, 255, 255, .3);
+    }
+    .our-branches-item {
+        border-right: 0;
+        display: contents;
+        height: auto !important;
+    }
+}
+@media (568px <=width <=767px){
+    .col-our-branches{
+        border-right: 0;
+    }
+}
