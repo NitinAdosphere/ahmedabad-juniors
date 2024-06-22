@@ -64,4 +64,17 @@
     .col-our-branches{
         border-right: 0;
     }
+    .our-branches-item p a {
+        font-size: 20px;
+        color: #ffc900
+    }
+}
+@media (320px <=width <=567px){
+    .col-our-branches{
+        border-right: 0;
+    }
+    .our-branches-item p a {
+        font-size: 20px;
+        color: #ffc900
+    }
 }

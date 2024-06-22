@@ -174,7 +174,6 @@ const page = () => {
               </div>
             </div>
             <a class="home-link" href="<?php echo $siteurl; ?>">
-              {" "}
               <img
                 src="<?php echo $siteurl; ?>images/home-blue.webp"
                 alt="Home Link"

@@ -1,0 +1,89 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "image": "/images/gallery/1.webp",
+      "popupImage": "/images/gallery/lg-1.webp"
+    },
+    {
+      "id": 2,
+      "image": "/images/gallery/2.webp",
+      "popupImage": "/images/gallery/lg-2.webp"
+    },
+    {
+      "id": 3,
+      "image": "/images/gallery/3.webp",
+      "popupImage": "/images/gallery/lg-3.webp"
+    },
+    {
+      "id": 4,
+      "image": "/images/gallery/4.webp",
+      "popupImage": "/images/gallery/lg-4.webp"
+    },
+    {
+      "id": 5,
+      "image": "/images/gallery/5.webp",
+      "popupImage": "/images/gallery/lg-5.webp"
+    },
+    {
+      "id": 6,
+      "image": "/images/gallery/6.webp",
+      "popupImage": "/images/gallery/lg-6.webp"
+    },
+    {
+      "id": 7,
+      "image": "/images/gallery/7.webp",
+      "popupImage": "/images/gallery/lg-7.webp"
+    },
+    {
+      "id": 8,
+      "image": "/images/gallery/8.webp",
+      "popupImage": "/images/gallery/lg-8.webp"
+    },
+    {
+      "id": 9,
+      "image": "/images/gallery/9.webp",
+      "popupImage": "/images/gallery/lg-9.webp"
+    },
+    {
+      "id": 10,
+      "image": "/images/gallery/10.webp",
+      "popupImage": "/images/gallery/lg-10.webp"
+    },
+    {
+      "id": 11,
+      "image": "/images/gallery/11.webp",
+      "popupImage": "/images/gallery/lg-11.webp"
+    },
+    {
+      "id": 12,
+      "image": "/images/gallery/12.webp",
+      "popupImage": "/images/gallery/lg-12.webp"
+    },
+    {
+      "id": 13,
+      "image": "/images/gallery/13.webp",
+      "popupImage": "/images/gallery/lg-13.webp"
+    },
+    {
+      "id": 14,
+      "image": "/images/gallery/14.webp",
+      "popupImage": "/images/gallery/lg-14.webp"
+    },
+    {
+      "id": 15,
+      "image": "/images/gallery/15.webp",
+      "popupImage": "/images/gallery/lg-15.webp"
+    },
+    {
+      "id": 16,
+      "image": "/images/gallery/16.webp",
+      "popupImage": "/images/gallery/lg-16.webp"
+    },
+    {
+      "id": 17,
+      "image": "/images/gallery/17.webp",
+      "popupImage": "/images/gallery/lg-17.webp"
+    }
+  ]
+}

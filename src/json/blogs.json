@@ -5,28 +5,651 @@
       "title": "Fuel for the Day: 5 Delicious and Nutritious Tiffin Ideas for Busy Students",
       "content": "As parents prepare to send their children back to school, packing a healthy and nutritious tiffin box is a top priority. With the abundance of unhealthy snacks and junk food options available, it can be challenging to create tiffin ideas that are both delicious and good for your child's health.",
       "btn": "/images/read-more-pink.png",
-      "img": "/images/blog/delicious-and-nutritious-tiffin-ideas.png"
+      "img": "/images/blog/1.webp"
     },
     {
       "id": 2,
       "title": "Juggling Parenthood and Work: Achieving the Perfect Work-Life Balance",
       "content": "As a parent, juggling work and family life can often feel like a constant struggle. It can be challenging to find the right balance between your responsibilities at work and your obligations as a parent.",
       "btn": "/images/read-more-green.png",
-      "img": "/images/blog/juggling-parenthood-and-work.png"
+      "img": "/images/blog/2.webp"
     },
     {
       "id": 3,
       "title": "Positive, Helicopter, or Free-Range? Which Modern Parenting Style is Right for You?",
       "content": "Modern parenting styles are often influenced by changing social, cultural, and technological factors. Here are some of the most common modern parenting styles:",
       "btn": "/images/read-more-pink.png",
-      "img": "/images/blog/modern-parenting-style.png"
+      "img": "/images/blog/3.webp"
     },
     {
       "id": 4,
       "title": "First Day Jitters? Tips to Help Your Child Feel Confident and Excited for School",
       "content": "Starting school can be a significant transition for young children and their parents. Here are some tips for first-time school-going kids:",
       "btn": "/images/read-more-green.png",
-      "img": "/images/blog/first-day-jitters.png"
+      "img": "/images/blog/4.webp"
+    },
+    {
+      "id": 5,
+      "title": "Encouraging creativity and curiosity - the recipe for raising thinkers",
+      "content": "Raising children who can think for themselves is a noble goal for any parent. Instead of simply following the crowd, these children will be empowered to question the status quo, develop their own ideas and beliefs, and contribute positively to the world around them.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/5.webp"
+    },
+    {
+      "id": 6,
+      "title": "बच्चे की सीखने की पद्धति",
+      "content": "माता-पिता को यह सीखने की जरूरत है कि उनका बच्चा किस तरह से सीखता है। एक ही घटना को लेकर अलग-अलग बच्चों की प्रतिक्रिया भिन्न-भिन्न होती है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/6.webp"
+    },
+    {
+      "id": 7,
+      "title": "कायरता के पीछे",
+      "content": "माँ जब आसपास होती है तब बच्चा निहायत ही बेफिक्र होता है। लेकिन माँ का एक मिनट के लिए भी उसकी नजरों से ओझल होना उसे गंवारा नहीं होता।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/7.webp"
+    },
+    {
+      "id": 8,
+      "title": "बच्चे की सफलता की चाबी माता-पिता के हाथ में",
+      "content": "मुख्यतः देखा जाए तो माता-पिता ही बच्चे को सफल या असफल बना सकते हैं। माता-पिता का दृष्टिकोण, मानसिकता, समझबूझ, शिक्षा, जागृति, अनुकूलन और बच्चे को शिक्षित करने का कौशल ही बच्चे की सफलता या असफलता के लिए सर्वाधिक महत्वपूर्ण होता है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/8.webp"
+    },
+    {
+      "id": 9,
+      "title": "बच्चे की सलामतीः घर और स्कूल में",
+      "content": "सलामती की अज्ञानता के कारण दुनिया भर में प्रतिवर्ष लाखों बच्चे छोटी-मोटी चोट का शिकार बनते हैं। यदि माता-पिता घर पर एवं घर के आसपास चहलकदमी करने की कोशिश करने वाले बच्चों का थोड़ा ध्यान रखें तो लाखों बच्चों का जीवन बच सकता है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/9.webp"
+    },
+    {
+      "id": 10,
+      "title": "विशिष्ट बच्चे",
+      "content": "दिमाग के अल्पविकास की वजह से इस प्रकार के बच्चों में बातचीत, आपसी संबंध एवं व्यवहार को लेकर रुझान में असामान्यता देखने को मिलती है। Autism बच्चों की बढ़ती संख्या समाज में आई जागृति और चिकित्सकीय व्यवस्था का नतीजा है।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/10.webp"
+    },
+    {
+      "id": 11,
+      "title": "बच्चे के विकास पर प्रभाव डालने वाले कारक",
+      "content": "स्वस्थ शिशु विकास के लिए जीवन के आरंभिक सात वर्ष सर्वाधिक महत्वपूर्ण हैं। बच्चे की आनुवंशिक क्षमता और सीखने के अवसर शारीरिक एवं मानसिक विकास पर प्रभाव डालने वाले कारक अत्यंत महत्वपूर्ण हैं।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/11.webp"
+    },
+    {
+      "id": 12,
+      "title": "पाठ्यक्रम और सह-पाठ्यक्रम प्रवृत्तियां",
+      "content": "स्कूल में विभिन्न क्रियाकलाप या प्रवृत्तियों के साथ अभ्यास करना सर्वश्रेष्ठ व्यवस्था है। ये प्रवृत्तियां ज्ञान एवं अनुभव का विकास करती हैं। प्रवृत्तियां सीमित परीक्षा व्यवस्था से बच्चे के व्यक्तित्व को बाहर लाती है।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/12.webp"
+    },
+    {
+      "id": 13,
+      "title": "बच्चों को वास्तव में क्या सिखाना चाहिए?",
+      "content": "बच्चों को पढ़ाने के लिए अधीर बाप पक्षियों एवं जानवरों के नाम, पहाड़ा इत्यादि तो सीखाते हैं। शीघ्रता के साथ होमवर्क करना सीखाते हैं। स्पर्धा में शिरकत करना सीखाते हैं।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/13.webp"
+    },
+    {
+      "id": 14,
+      "title": "अंतर की गहराई",
+      "content": "इस सृष्टि में जन्म लेने वाले सभी बच्चे एक-दूसरे से बिल्कुल अलग होते हैं। आकार एक सरीखा होता है लेकिन दिखने में जुदा होते हैं। जन्म के साथ बच्चा अपने माता-पिता, दादा-दादी, नाना-नानी सहित कई पीढ़ियों की आनुवंशिकता को लेकर पैदा होता है।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/14.webp"
+    },
+    {
+      "id": 15,
+      "title": "नौ वर्ष के बच्चों को क्या सिखाना चाहिए?",
+      "content": "बच्चों को पढ़ाने के लिए अधीर बाप पक्षियों एवं जानवरों के नाम, पहाड़ा इत्यादि तो सीखाते हैं। शीघ्रता के साथ होमवर्क करना सीखाते हैं। स्पर्धा में शिरकत करना सीखाते हैं।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/15.webp"
+    },
+    {
+      "id": 16,
+      "title": "नौ वर्ष के बच्चों को क्या सिखाना चाहिए?",
+      "content": "कोई भी चीज मांगने से पूर्व प्लीज एवं प्राप्त करने के बाद थैन्क यू कहना सिखाना चाहिए।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/16.webp"
+    },
+    {
+      "id": 17,
+      "title": "पांच वर्ष के बच्चों को क्या सिखाना चाहिए?",
+      "content": "अपना नाम-पता, टेलीफोन नंबर लिखना, पढ़ना और बोलना सिखाना चाहिए, अपने माता-पिता का नाम सिखाना चाहिए",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/17.webp"
+    },
+    {
+      "id": 18,
+      "title": "स्कूल का चुनावः एक समस्या",
+      "content": "गुजरात की शिक्षा आज गतिशीलता (वाइब्रेंसी) में है। ग्लोबल एजुकेशन में गुजरात आज भारत का हब बनने जा रहा है और अहमदाबाद उसका नॉलेज कैपिटल बन रहा है।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/18.webp"
+    },
+    {
+      "id": 19,
+      "title": "माध्यम कौन साः अंग्रेजी या गुजराती",
+      "content": "आम तौर पर जो माता-पिता बच्चे के भविष्य से संबंधित निर्णय २० वर्ष बाद की परिस्थिति को ध्यान में रखते हुए करते हैं, वे निर्णय सच साबित होते हैं।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/19.webp"
+    },
+    {
+      "id": 20,
+      "title": "स्कूल में दाखिले से पूर्व",
+      "content": "बच्चे के स्कूल प्रवेश के लिए ३०-०६ के दिन तीन वर्ष पूरे होते हों, तो उसका दाखिला नर्सरी में करवाया जा सकता है। लेकिन विशेष मामले में बच्चे के शारीरिक-मानसिक विकास के मद्देनजर ऐसे बच्चों को स्कूल दाखिला दे सकती है जिनके तीन वर्ष ३०-०९ को पूरे होते हों।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/20.webp"
+    },
+    {
+      "id": 21,
+      "title": "बच्चों के परिप्रेक्ष्य में",
+      "content": "सफल समाज आने वाले सौ वर्षों को ध्यान में रखते हुए अपना आयोजन करता है, जिस आयोजन के केन्द्र में नई पीढ़ी होती है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/21.webp"
+    },
+    {
+      "id": 22,
+      "title": "भावी चुनौतियां",
+      "content": "आम तौर पर समकालीन समस्याओं और समय की मांग के मद्देनजर माता-पिता अंग्रेजी या गुजराती माध्यम की स्कूलों का चुनाव तथा बच्चे को उपलब्ध कराए जाने वाले अवसरों एवं वातावरण को ध्यान में रखते हैं।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/22.webp"
+    },
+    {
+      "id": 23,
+      "title": "पांच से छह वर्ष की उम्र के बच्चे का विकास",
+      "content": "संगीत की ताल पर झूम उठता है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/23.webp"
+    },
+    {
+      "id": 24,
+      "title": "तीन से चार वर्ष की उम्र के बच्चे का विकास",
+      "content": "एक पैर पर कुछ देर के लिए खड़े रह सकता है।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/24.webp"
+    },
+    {
+      "id": 25,
+      "title": "दो से तीन वर्ष की उम्र के बच्चे का विकास",
+      "content": "खिलौना गाड़ी को पैडल मारकर घुमा-फिरा सकता है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/25.webp"
+    },
+    {
+      "id": 26,
+      "title": "बच्चे का विकास सहज-आनंद कब बन सकता है?",
+      "content": "माता-पिता जब बच्चे को सही तरीके से समझ सकें तब। माता-पिता जब अपनी अपेक्षाओं को नियंत्रित करें तब।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/26.webp"
+    },
+    {
+      "id": 27,
+      "title": "जैसी क्रिया, वैसी प्रतिक्रिया",
+      "content": "समाज परिवर्तन के दौर से गुजर रहा है। बहुत बड़े घरों में संबंधों की संकीर्णता भी ज्यादा होती है। जब कभी समूचा परिवार एक साथ भोजन के लिए बैठता है तो लगभग वह होटल की मेज पर होता है।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/27.webp"
+    },
+    {
+      "id": 28,
+      "title": "मैं कहां हूं?",
+      "content": "परिवार का केंद्रबिंदु मैं हूं। परिवार के सपनों की धरोहर मैं हूं। लग्न-कुंड में अर्पित की जाने वाली आहूति का अमृत मैं हूं। मैं माता-पिता के प्रेम का साक्षात्कार हूं।",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/28.webp"
+    },
+    {
+      "id": 29,
+      "title": "सुनिए, बच्चा क्या कहता है?",
+      "content": "बच्चा कहता हैः मुझे राह न बतलाना, मैं तो आपके पदचिन्हों पर चल रहा हूं। हर बात पर मुझे मदद की जरूरत नहीं। मुझे कुछ सीखने का संघर्ष करने दीजिए।",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/29.webp"
+    },
+    {
+      "id": 30,
+      "title": "How to set up a morning routine with kids?",
+      "content": "It is quite unusual to follow a routine around kids and it has been witnessed by generationslong ago to the generation now present. To make children stick to something is a task. Believing they will follow it every day is no less than an illusion, so it would be a joke if someone says “Make a routine” while your kid runs errand in the room.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/30.webp"
+    },
+    {
+      "id": 31,
+      "title": "Common Fears",
+      "content": "To adult mind many things are just not possible. We don’t understand things or believe things that have no evidence (not talking about religious faith). But kids…oh boy! With them things are different. These little creatures are open to so many perspectives that we adults can’t handle.",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/31.webp"
+    },
+    {
+      "id": 32,
+      "title": "How to calm kids With Autism",
+      "content": "Autistic children react to physical or emotional stress without any particular agenda; they are simply expressing feelings of excitement, frustration, or anxiety or responding to sensory assaults. 1Children with autism can have a tough time managing their behavior.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/32.webp"
+    },
+    {
+      "id": 33,
+      "title": "Explaining the ongoing pandemic",
+      "content": "Stop CORONA Stop! What is the reason mom and dad are not allowing me to go out?.Why is everyone wearing a mask? What is wrong with my grandpa? Why can’t he come home? Why did school give us such a long break?",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/33.webp"
+    },
+    {
+      "id": 34,
+      "title": "What do kids got to Worry about?",
+      "content": "Oh! The lovely childhood! We often think of it as the most wonderful part of life and it is no doubt about it. It is a joy to see kids running, jumping, hopping and giggling away carelessly. They have nothing to worry about. They are in their own universe, their own little space in this big place.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/34.webp"
+    },
+    {
+      "id": 35,
+      "title": "Words that matter",
+      "content": "It is always a cheerful moment when you have daughter. They seldom leave you alone and are a constant company for mothers. Having daughter is ride of a time machine, you never quite understand when and how did they grow up so fast.",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/35.webp"
+    },
+    {
+      "id": 36,
+      "title": "Through the eye of a kid",
+      "content": "Kids are curious creatures and their life is full of adventure. The stories they make up, the games they play, the way they behave and every other thing they do; all these has always fascinated every adult. “I wonder where he picked those words from?”, “How does he know how to wear those earphones?” all these little surprises leave us baffled. What we don’t understand is that kids observe us way closely than we are aware of.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/36.webp"
+    },
+    {
+      "id": 37,
+      "title": "Understanding the Potential",
+      "content": "Potential, passion and positively occupied child is next to experiencing a heaven. But why it does not happened so often? Are our kids lacking? May be this is their limit. And we just accept that as fact and you cannot be much wrong with these assumptions. Kids are not lacking, it is in us. Our failure of not being able to recognize the true ability or talent in our children is what hampers their growth.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/37.webp"
+    },
+    {
+      "id": 38,
+      "title": "Let kids fall      ",
+      "content": "Not many parents understand the importance of providing as much as required. Safe guarding the child from challenges make them weak. I agree, it is the hard for parents to see their kids struggle. Our heart breaks and stomach churns from just the thought of it. But the struggle they face today will build them for the future. Understand this little story      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/38.webp"
+    },
+    {
+      "id": 39,
+      "title": "Temper Tots      ",
+      "content": "Ah! What a wonderful morning. It’s going to be an amazing day. Wait… I have kids. I have kids who have tantrums & temper.”      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/39.webp"
+    },
+    {
+      "id": 40,
+      "title": "Finding the right gift for toddlers is no childs play      ",
+      "content": "Gifting shopping for kids can sound fun but it is a challenging task, especially after when toddlers become preschooler. At this stage kids will truly anticipate, understand, and revel in all the attention they'll receive on his big day. Shopping for toys changes after child turns 3. They start paying attention to things, try and understand the pattern. They take interest in exploring new things.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/38.webp"
+    },
+    {
+      "id": 41,
+      "title": "Tech-Indulgence & Kids      ",
+      "content": "The above is piece from the interview of Steve Jobs, from the NEW YORK TIMES. It caused a large round internet. Can you guess why? Let us understand this one step at a time”      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/41.webp"
+    },
+    {
+      "id": 42,
+      "title": "Creating Happy Adults",
+      "content": "As parents, we all want kids to bloom in to happy adults and to there are many ingredients that are required for that. Education, health, environment, family, neighborhood and other variables blended together result in the final outcome. Research shows that of all these, parents have a lasting and prominent affect on children. Parenting style adopted by parents matter a lot.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/42.webp"
+    },
+    {
+      "id": 43,
+      "title": "Should I ask kids to help around the house?      ",
+      "content": "When we teach kids about the kind of hard work that is required in life, we must tell them how important the chores are. Yup…Chores…The house hold work. And no, this is no joke. When you send kids away for further studies or for their career opportunities you are not going to send a servant with them, are you? So how is your Raja beta or Pretty Princes going to manage washing clothes, cooking, doing the dishes and other house hold jobs?      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/43.webp"
+    },
+    {
+      "id": 44,
+      "title": "Beautiful and Athletic      ",
+      "content": "You see a girl playing foot ball, hanging out with guys in jersey and you call her…well you know it “a tomboy”. And on the other hand you see a girl all dressed up, blue ribbon in her hair, wearing a satin dress and you call her “a girly girl”.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/44.webp"
+    },
+    {
+      "id": 45,
+      "title": "Corona-virus gave kids a mini vacation but Parents where you prepared?      ",
+      "content": "Well, there is no such thing as kids proofing and parents know it. Given the outbreak of Corona-virus, govt. has declared holidays. That means no school and it also means messy home. So what do you do to keep your kids busy at home? Tab, mobile, T.V., pc or video game, are these you’re the things that help you keep your child busy?      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/45.webp"
+    },
+    {
+      "id": 46,
+      "title": "This being called MOM      ",
+      "content": "Mothers are the superwoman we all know. Mom just knows what we need, how we feel and even understands us when we don’t say much. It is not a surprise that mom can feel everything their baby feels. Not to exaggerate but a mother can always sense if their little precious is in trouble or hurt. Being mother is the most talked about bond. This relationship is the purest form of love not because this bond has a mother. Then why are mothers so over protective, so loving, so stern and at the same time so tender.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/46.webp"
+    },
+    {
+      "id": 47,
+      "title": "That first rough draft      ",
+      "content": "Writing is one of the rarest and most undervalued skills among students. And it is not there fault. The professor and teachers indulge them with spoon feeding at an age where imagination can grow. Writing skill are important to build not only will it help in improving grades but will also develop the ability to think and explain. So how can students improve their writing skills? …right ! So let’s jump directly to the points to remember.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/47.webp"
+    },
+    {
+      "id": 48,
+      "title": "Play and learn      ",
+      "content": "Kids learn a lot when they play. They engage in in various kind of activities and learn from it. Kids between 2yr till 4yr learn many things as they play. Playing at this stage is an important part of developing skills and mental growth. Play, for children does not involves only one kind of game but involves different stages. These games evolves as they grow.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/48.webp"
+    },
+    {
+      "id": 49,
+      "title": "One more story",
+      "content": "Having child is fun but exhausting. The trouble ensues when the bedtime starts nearing. Toddlers, somehow have the energy flowing through them at night. They seem to have their own plans that they want to achieve. They become bouncy balls that are hard to get a hold of. Running errands, they did be in a totally different zone. They have so much on their to do list and sleeping is at the bottom of it. Well…that wasn’t hard to guess.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/49.webp"
+    },
+    {
+      "id": 50,
+      "title": "Kota JEE NEET And Depression      ",
+      "content": "“Why would my baby do such a thing? The preparations were good. Never have we seen our kid looking sad, we never thought our child could commit suicide.. why? What happened?” This is a growing concern in India. The saddest part is that these kids who are suppose to enjoy the curriculum are pressured by the same. In fact India has the highest rates of suicide. The reason can be myriad but failure in examination and depression are the common cause. There are instances where kids end up their life right before the result due to fear of letting their parents down.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/50.webp"
+    },
+    {
+      "id": 51,
+      "title": "Destructive Teen Behavior",
+      "content": "Kids between the ages of 2 to 4 year old, they perform various social skills and some of them are just to know how far they can push the limit. And no parent would want their child to grow up and become a socially challenged. Some parents end up being way too strict. And it is observed that the children who grew up with strict parents show inclination towards anti-social peers. But it is normal for a child to show positive and negative social pattern. The problem arises when the child displays more negatives than the positives.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/51.webp"
+    },
+    {
+      "id": 52,
+      "title": "A garden of secrets ",
+      "content": "There are many activities that you and your toddler can do together. One of the best activity is gardening. Yes.., gardening. Well there is reason after all… gardening with children provides the perfect combination of skills and tasks to address the motor development. Gardening is a great physical development activity. Young children will practice locomotors skills, body management skills and object control skills while they move from one place to the other carrying tools, soil and water.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/52.webp"
+    },
+    {
+      "id": 53,
+      "title": "What’s wrong with you ?      ",
+      "content": "As kids start with their adolescences there are sudden change in their behaviour. They locks them self in room and has become very secretive. Interest in studies are dropped. They keep saying nothing is wrong but we as parents don’t agree and feel they are not sharing thoughts. When kids reach their teen years, it’s a time of transition and change for them. This is normal and should be expected even though it can be frustrating and confusing time for the whole family. ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/53.webp"
+    },
+    {
+      "id": 54,
+      "title": "Trouble on dining table      ",
+      "content": "Kids are unpredictable, they like one thing today and they wont even look at that thing the next day. One morning these little heads will be craving for rice cakes and the next day they would want to enjoy ice cream. You can never be too sure what they will eat. Some kids eat everything given to them while others will throw fit. So it doesn’t really maters if you are a chef extraordinaire or an amateur cook, children will be fuzzy eaters.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/54.webp"
+    },
+    {
+      "id": 55,
+      "title": "Travel Joy and troubles with kids      ",
+      "content": "Are you planning a trip with your child? If yes, you must be very excited to enjoy your journey.  By the way, are you perfectly ready to cope with the challenges you may face during the trip?You know it or not but it is very interesting to think about some joys and challenges while you travel with your growing children. Surely, that a trip is going to be challenging as well as joyful with the children.",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/55.webp"
+    },
+    {
+      "id": 56,
+      "title": "Teenage Drama",
+      "content": "If you have a child in teens, you must be aware of their tantrum. Do you ever wonder what this teenage child of yours is up to? They don’t comply with most of the social norms and are busy in their own world. Frustrated, angry, agitated and always ready to get in the word fight. But these young individuals go through a lot of changes as they enter puberty. So, as children become teenagers, their brain grows and changes. And all these changes affect their behavior.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/56.webp"
+    },
+    {
+      "id": 57,
+      "title": "The Kings and Queens of Social Media      ",
+      "content": "Social media has grown and expanded over the years. The usage of this platform is so massive that we can only expect the unfathomable. These platforms are very popular among the young ones. “Click before you eat” has become the new table habit instead of “Pray before you eat”. Uploading pictures, the check-in option on Facebook and add location on Instagram, literally, everyone in your circle knows where you are and what you are doing.",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/57.webp"
+    },
+    {
+      "id": 58,
+      "title": "Read your way through      ",
+      "content": "It’s fun and entertaining to watch your child speak and explore new sounds and words. By the age of 4, kids will pick up two to three letter words. This age is also the perfect age to introduce them to books. Encouraging them read will enhance their memory.“But how I promote reading habits ?”",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/58.webp"
+    },
+    {
+      "id": 59,
+      "title": "Parents! Watch your words      ",
+      "content": "Apart from being parents, we are nothing but human. And it is human of us to see the negatives in everything. We acknowledge the good but focus on everything that is not right. What are we missing? What needs to be done? This is not the right thing and many more of such thoughts. And as parents we want to see the best in our child. And there is nothing wrong in it.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/59.webp"
+    },
+    {
+      "id": 60,
+      "title": "My baby is starting school !!!      ",
+      "content": "Preparing the child for school is major milestone for every parent even though it involves a little bit of emotional conflict. You are worried about your little one’s new adventure. Your baby stepping out in the world alone can put you in a tight spot. And on the other you are happy that your baby will make new friends and learn new things. At this point, the emotions are riding the rollercoaster, you are happy, excited, scared, nervous and a tons of butterflies in the stomach.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/60.webp"
+    },
+    {
+      "id": 61,
+      "title": "Mine!! I want it back      ",
+      "content": "“Mine!! I want it back.” This phrase is rather familiar to most parents. This is a tricky part in parenthood. Teaching kids how to share their toys is a tough job. They are very well known for not sharing their toys. They may not be playing with it but next moment, as soon as some other kid starts to play, they want it back. They will hold on tighter to the toy. They will not let go of it.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/61.webp"
+    },
+    {
+      "id": 62,
+      "title": "Look at others and just look at you      ",
+      "content": "Let’s be honest.. we have heard this line as kids and we repeat this statement to our kids. Surprisingly we don’t see anything wrong in it. But this harmless statement is lethal. For some parents comparing is motivation. They show their child what they are missing by pointing out the good in others. Comparing a child is never a good idea. By doing so we are belittling the child forcing them to believe that they are not good enough.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/62.webp"
+    },
+    {
+      "id": 63,
+      "title": "I didn’t do it      ",
+      "content": "Most children lie at some stage, lying is part of development and the child is also learning to accept and tell the truth. Catching young ones lying can be frustrating and a huge challenge. This habit can be fixed by changes in parenting style.Let us consider a scene",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/63.webp"
+    },
+    {
+      "id": 64,
+      "title": "Do I look okay?      ",
+      "content": "Teens, these days have access to social media and it becomes hard monitor their every activity. These kids follow celebrities and many other people. They desire to look like them. This celebrity imaging is harmful. This has negative effective on kids. Teenager compare themselves with celebrities. Not only do they follow their fashion trends but they want to have physic, the looks and also the body size. The trends like size zero, plum lips, lean figure, good abs and what not…all these trends make them feel a little less attractive. ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/64.webp"
+    },
+    {
+      "id": 65,
+      "title": "Big Bag Bully      ",
+      "content": "They call me names.., they don’t play with me.., they laugh at me.., they push me and hurt me…, they make me cry… all these are forms of bullying. Your child may face such bullying at some point in their life. “It’s a phase.. you’ll get over it” is a common response that doesn’t works. It only leads to the downfall of the victim’s life. Bullying is a big problem that makes kids feel hurt, scared, sick, lonely and sad. Bullies may hit, kick, or push to hurt people, or use words to call names, tease, or scare them.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/65.webp"
+    },
+    {
+      "id": 66,
+      "title": "Being A Father      ",
+      "content": "Looking after the newborn baby or a toddler is not the prime duty of only the mother. New dads may play an important role in the development of the child. Right? We are sure you agree with statement. Before the birth of baby, most of the couple think they are ready to cope with new challenges but suddenly they find they are confused because of different changing situations.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/66.webp"
+    },
+    {
+      "id": 67,
+      "title": "Behaviour change – A mega battle      ",
+      "content": "When it comes to bringing an expected behaviour among their wards, every family has a different definition, environment, system, training and approach. However, majority of parents waste their efforts, time and power by becoming curer rather than becoming preventer.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/67.webp"
+    },
+    {
+      "id": 68,
+      "title": "Over-discipline insisting parents      ",
+      "content": "Generally parents, who insist discipline and good behaviour among their kids, do resort to instructions, advises, punitive measures, physical or mental punishments and for that matter emotional punishments too. Such recourse done by parents often leads to creating many problems with children.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/68.webp"
+    },
+    {
+      "id": 69,
+      "title": "The Breeding of the good habits      ",
+      "content": "Almighty confers the children into the parent’s hands like a clean slate. And, it is the overall conduct of the parents, their behaviour, their ideals – all these creates conducive surrounding for the child to learn and pick up. Normally children adopt and adapt to all good habits and culture after a prolonged observation of their parents. And, thus it is aptly said - parents must keep in mind that children learn more by not hearing but by observing.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/69.webp"
+    },
+    {
+      "id": 70,
+      "title": "Why do children become inactive?",
+      "content": "In order to understand the behaviour of children, their habits, interests, tastes and their likings, one really needs to know the child psychology and thus understanding their social and mental development.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/70.webp"
+    },
+    {
+      "id": 71,
+      "title": "The Time Management for Child’s Success",
+      "content": "The TIME-MANAGEMENT doesn’t mean time-table for study or activity. The Time Management also doesn’t mean to keep the child running with the clock, but, necessary to develop a sense to understand it.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/69.webp"
+    },
+    {
+      "id": 72,
+      "title": "The Roots of Rebellion Attitude      ",
+      "content": "There are the definite reasons for children’s peculiar behaviour and its change, and often parents think that the child should understand their point or subject. But at the same time, the child is also having similar expectation from the parents that they too should understand their mind-set.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/72.webp"
+    },
+    {
+      "id": 73,
+      "title": "The Child is Speaking Unclearly      ",
+      "content": "Mostly, the tongue is not causing the child to speak unclearly; however normally the parents believe that their child is not able to speak clearly because of the problem with his tongue.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/73.webp"
+    },
+    {
+      "id": 74,
+      "title": "The learning patterns of the child      ",
+      "content": "It is really essential for every parents to know that “How does their child learn?” For one single incident or occasion, each child can be reacting differently. The children grown up in the same atmosphere can show different reactions for likings and disliking. Similarly, all the children are learning in the same atmosphere. It is necessary to understand the different learning patterns and procedures.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/74.webp"
+    },
+    {
+      "id": 75,
+      "title": "You can improve the child with inexhaustible patience      ",
+      "content": "Usually the first child in the family is found more shy, introvert and dependable on others, even in small matters. This is true as he is being raised with much pampering and given much more facilities. He also becomes a subject of many experiments.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/75.webp"
+    },
+    {
+      "id": 76,
+      "title": "Inside of timidity      ",
+      "content": "Children in company of their mothers feel more secure and safe. Thus, they don’t want their mothers leave them even for a moment. Child feels uneasy if you go out, perhaps to hospital or elsewhere, without informing him. Nothing can solace him in such situation. Thus, it is important to persuade him to accept circumstance before getting separated from him. Sometimes you can even use toys as an instance in order to explain things to him.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/76.webp"
+    },
+    {
+      "id": 77,
+      "title": "Keys of your child’s success is in your own hand      ",
+      "content": "By and large it can be said that it is parents who can make their child either a successful or unsuccessful. Parent’s own mindset, attitude, education, ability to adjust with others and their skills to educate their child are most crucial factors for the child’s success or failure.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/77.webp"
+    },
+    {
+      "id": 78,
+      "title": "The Child safety at home and at school      ",
+      "content": "Every year millions of children suffer from minor or major injuries due to lack of safety awareness. If the parents give a little attention to the children when they are learning to explore places in and around their house, it may save lives of millions children.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/78.webp"
+    },
+    {
+      "id": 79,
+      "title": "The Autistic Children      ",
+      "content": "Often abnormality is observed with some children during their talks, relationships and behaviour as they are suffering from the Autism. In medical term Autism is described as “Bio-neurological disorder that is observable in early childhood with symptoms of abnormal self absorption, characterized by lack of response or other humans and by limited ability or disinclination to communicate and socialize.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/79.webp"
+    },
+    {
+      "id": 80,
+      "title": "Factors affecting child's development      ",
+      "content": "For a healthy child the first seven formative years are very important for his physical and mental growth. The child’s genetic potential and learning opportunities are important elements which largely affect his mental and physical growth. By birth each baby arrives in the world with his few unique abilities of interests, inclinations and skills.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/80.webp"
+    },
+    {
+      "id": 81,
+      "title": "Curricular and co-curricular activities      ",
+      "content": "The best method to educate a child is to teach him along with some extra-curricular activities. The extra-curricular activities are developing the children’s abilities to understand and giving experience too. The curricular activities help the child to develop his personality beyond boundaries drawn by the Mark-Oriented Education System.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/81.webp"
+    },
+    {
+      "id": 82,
+      "title": "What really should you teach to your child      ",
+      "content": "Parents are too zealous to teach names of birds and animals to their child. They teach him math tables, they teach him doing homework speedily and compete fiercely, but never teach what is really essential. Eventually the children who succeed in studies fail in tackling the real life. In such a situation, this article will surely prove to be very helpful in knowing what really you should teach to your child.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/82.webp"
+    },
+    {
+      "id": 83,
+      "title": "What should you teach to a twelve year old child?      ",
+      "content": "Teach your child to talk candidly about his needs and problems.Teach him how to make request to others and how to convince them.Assure him that he can frankly talk about his problems with his parents. ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/83.webp"
+    },
+    {
+      "id": 84,
+      "title": "What should you teach to a nine year old child?      ",
+      "content": "Teach him to say ‘please’ before asking anything from others and ‘thank you’ on receiving it.Teach him that in case he wants to say something while two elders are talking, he should keep patience and wait till the elders complete their conversation. And if it is urgent and necessary then he should politely say ‘excuse me’ and then put his point in the middle of the conversation.Teach him to ask whenever he has a doubt or lack of self-confidence. The habit of asking can save him from many problems.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/84.webp"
+    },
+    {
+      "id": 85,
+      "title": "What should you teach to a five year old child?      ",
+      "content": "A child should be taught to speak, to read and to write his name, address and telephone number.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/83.webp"
+    },
+    {
+      "id": 86,
+      "title": "A Right Age for Schooling      ",
+      "content": "A Right Age for Schooling What is the right age for a child to start schooling?I think, a child having completed three-years of age on or before 30-6 (June 30) at the beginning of an academic year of the school can be admitted at the Nursery Level. However, in few cases the children completing 3-years on or before 30-9 (September 30) could also be given admission, provided they have good physical and mental growth.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/86.webp"
+    },
+    {
+      "id": 87,
+      "title": "Challenges Ahead      ",
+      "content": "Usually while enrolling their children in the school the parents keeps contemporary scenario in mind. They consider aspects like choosing the opportunities and environment provided to the children in the school.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/87.webp"
+    },
+    {
+      "id": 88,
+      "title": "When can the child-rearing be a process of natural joy?      ",
+      "content": "Academic education is not enough for the full realization of the child’s potential. The responsibility of developing his body, mind, interests, inclinations, arts, hobbies, imagination, health and a vision to look at the world is far greater than merely providing him with schooling.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/86.webp"
+    },
+    {
+      "id": 89,
+      "title": "Reap as you sow      ",
+      "content": "Our society is on the verge of a change. A kind of narrowness in relationships is seen in the affluent families. A family having meal together has become a rare sight, except for the dining table of a restaurant. People, who are eager in keeping up-to-date information about the families of Amitabh Bachchan or Bill Gates, are found miles away from the matters of their own family. A father who has reached the summit of Himalaya fails to reach to the heart of his child.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/89.webp"
+    },
+    {
+      "id": 90,
+      "title": "Where is me in this vain complexity?      ",
+      "content": "I am the focal point of my family. I am the dream of my family. I am the fulfillment of wedding vows and actualization of parents’ love. I am the dawn of my family's hope.I am the hubbub in the drawing room, a wonderful blend of array and disarray.      ",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/90.webp"
+    },
+    {
+      "id": 91,
+      "title": "A vision is essential in building a career      ",
+      "content": "Our entire educational system is working with keeping an eye on percentage based results. Majority of the parents are deciding the career-line for their wards on the basis of percentage they have obtained in the Std. 10th and 11th. The entire system acts like the child’s academic excellence has no connection or links with his/her interest, talents, inclination, skills and career. Right from the kindergarten level the parents are evaluating the performance of their children’s on the percentage they have obtained rather than looking at their natural abilities and talents.      ",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/91.webp"
+    },
+    {
+      "id": 92,
+      "title": "Listen, what the child says      ",
+      "content": "The child says: Don't show me the way, I walk on your steps.I don't want your help in all matters,let me struggle to learn new things myself.Don't compare me with others, I am unique in this world.",
+      "btn": "/images/read-more-pink.png",
+      "img": "/images/blog/90.webp"
+    },
+    {
+      "id": 93,
+      "title": "What is important, Teaching or Testing?      ",
+      "content": "When the ancient Guru Dronacharya took the test of Kuravas and Pandavas , it was a test of their CONCENTRATION. And only Arjun had passed it!When Udgupt, a great Buddhist Monk of 3rd century B.C., took the test of The Great King Ashoka, it was a test of his CONSISTENCY. And to pass this test, King Ashoka had to give up everything that he had!",
+      "btn": "/images/read-more-green.png",
+      "img": "/images/blog/93.webp"
     }
   ]
 }
