@@ -36,7 +36,9 @@ import PhilosophyImg1 from "../images/home/philosophy/1.png";
 import PhilosophyImg2 from "../images/home/philosophy/2.png";
 import FranchiseTitle from "../images/home/franchise-opportunity/why-ahmedabad-juniors-title.webp";
 import Blogs from "./blogs/page";
-
+import downloadbrochure from "../images/common/download-brochure.webp"
+import franchisetitle from "../images/common/franchise-enquiry-title.webp"
+import franchisesubmit from "../images/common/submit-btn.webp"
 export default function Home() {
   return (
     <>
@@ -522,6 +524,59 @@ export default function Home() {
           </a>
         </div>
       </section>
+
+      {/* Contact Us section */}
+
+      <section className="contact-section">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="contact-detail">
+                <h2>Ahmedabad Juniors</h2>
+                <p>Divyapath Campus, Memnagar, Ahmedabad</p>
+                <a href="#">Contact on WhatsApp: +91 73833 70091</a>
+                <a href="#">Call Us on : +91 73833 70091</a>
+                <a href="https://ahmedabadjuniors.com/downloads/ahmedabad-juniors-brochure.pdf" target="_blank">
+                  <Image src={downloadbrochure} className='img-fluid' alt="" />
+                </a>
+              </div>
+            </div>
+            <div className="col-lg-6">
+            <div className="franchise-enquiry-form">
+           <h2 className="franchise-heading">
+            <Image src={franchisetitle} className='img-fluid' alt="" /></h2> 
+            <form action="" className="franchise-form">
+              <div className="row">
+                <div className="col-lg-6 col-form"><input type="fname" class="form-control sm-form-control" placeholder="FirstName" id="inputEmail4" /></div>
+                <div className="col-lg-6 col-form"><input type="lname" class="form-control sm-form-control" placeholder="LastName" id="inputEmail4" /></div>
+            </div>
+            <div className="row">
+                <div className="col-lg-12 col-form"><input type="mobile" class="form-control sm-form-control" placeholder="Phone No." id="inputEmail4" /></div>
+                <div className="col-lg-12 col-form"><input type="email" class="form-control sm-form-control" placeholder="Email Address" id="inputEmail4" /></div>
+            </div>
+            <div className="row">
+                <div className="col-lg-6 col-form"><input type="city" class="form-control sm-form-control" placeholder="City" id="inputEmail4" /></div>
+                <div className="col-lg-6 col-form"><input type="area" class="form-control sm-form-control" placeholder="Area" id="inputEmail4" /></div>
+            </div>
+            <div className="row">
+              <div className="col-lg-12 text-center">
+                <button className="btn btn-submit">
+                <Image src={franchisesubmit} className='img-fluid' alt="" />
+                </button>
+
+              </div>
+            </div>
+
+            </form>
+            
+            </div>
+            </div>
+          </div>
+        </div>
+
+      </section>
+
+
     </>
   );
 }

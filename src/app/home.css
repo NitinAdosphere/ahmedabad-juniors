@@ -251,3 +251,66 @@
   right: 60px;
   z-index: 9;
 }
+
+/*#### contact section ####*/
+.contact-section{
+  padding: 60px 0;
+}
+.contact-detail {
+  text-align: center;
+}
+.contact-detail h2{
+  font-size: 28px;
+  line-height: 28px;
+  color: #242424;
+  font-weight: 500;
+  margin-bottom: 20px;
+  display: block;
+}
+
+.contact-detail p{
+  font-size: 20px;
+  color: #242424;
+}
+.contact-detail a{
+  display: block;
+  font-size: 20px;
+  color: #242424;
+  text-decoration: none;
+  margin-bottom: 10px;
+}
+
+.franchise-enquiry-form{
+  width: 86%;
+  margin: 0 auto;
+  padding: 45px 30px 25px;
+  background-image: url("/images/form-bg.webp");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.franchise-enquiry-form .franchise-heading{
+  margin: 0 0 -40px;
+  position: relative;
+  top: -60px;
+  text-align: center;
+}
+
+.franchise-enquiry-form .franchise-form .col-form {
+  margin-bottom: 15px;
+}
+.franchise-enquiry-form .franchise-form .sm-form-control{
+  border: 1px solid #87898a;
+  padding: 0 10px;
+  line-height: 36px;
+  letter-spacing: .5px;
+  font-size: 16px;
+  background: 0 0;
+  display: block;
+  width: 100%;
+  color: #555;
+  border-radius: 0 !important;
+  -webkit-transition: border-color ease-in-out .15s;
+  -o-transition: border-color ease-in-out .15s;
+  transition: border-color ease-in-out .15s;
+}
+
