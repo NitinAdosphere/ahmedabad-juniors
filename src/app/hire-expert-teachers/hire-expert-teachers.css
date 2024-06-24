@@ -86,3 +86,64 @@
   width: 100%;
   margin: 0;
 }
+
+@media (768px <=width <=1024px) {
+  .hire-expert-teacher-title h1 {
+    font-size: 36px;
+  }
+  .title-button {
+    font-size: 24px;
+  }
+  .hire-expert-teacher-body button h3 {
+    font-size: 24px;
+  }
+  .modal-header-title h4 {
+    font-size: 24px;
+  }
+  .modal-header-bg p {
+    font-size: 16px;
+  }
+  .teacher-list {
+    font-size: 16px;
+  }
+}
+@media (568px <=width <=767px) {
+  .hire-expert-teacher-title h1 {
+    font-size: 28px;
+  }
+  .title-button {
+    font-size: 20px;
+  }
+  .hire-expert-teacher-body button h3 {
+    font-size: 20px;
+  }
+  .modal-header-title h4 {
+    font-size: 24px;
+  }
+  .modal-header-bg p {
+    font-size: 16px;
+  }
+  .teacher-list {
+    font-size: 16px;
+  }
+}
+@media (320px <=width <=567px) {
+  .hire-expert-teacher-title h1 {
+    font-size: 28px;
+  }
+  .title-button {
+    font-size: 16px;
+  }
+  .hire-expert-teacher-body button h3 {
+    font-size: 16px;
+  }
+  .modal-header-title h4 {
+    font-size: 24px;
+  }
+  .modal-header-bg p {
+    font-size: 16px;
+  }
+  .teacher-list {
+    font-size: 14px;
+  }
+}
