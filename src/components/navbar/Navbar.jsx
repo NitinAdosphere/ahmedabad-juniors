@@ -4,7 +4,12 @@ import React from "react";
 import { usePathname } from "next/navigation";
 import AjLogo from "../../images/common/aj-logo.webp";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-// import { faFacebook } from "@fortawesome/free-brands-svg-icons";
+// import { faHippo } from "@fortawesome/free-regular-svg-icons";
+import { LiaFacebookF, LiaInstagram, LiaTwitter } from "react-icons/lia";
+
+
+
+
 
 import "./navbar.css";
 
@@ -19,7 +24,14 @@ const Navbar = () => {
   return (
     <>
       <nav className={navbarClassName}>
-        <div className="container">
+        <div className="container d-flex align-items-end main-navbar">
+          <div className="nav-social-media">
+            <ul>
+                <li><a href="#" className="facebook-icon"> <LiaFacebookF /></a></li>
+                <li><a href="#" className="instagram-icon"><LiaInstagram /></a></li>
+                <li><a href="#" className="twitter-icon"><LiaTwitter /></a></li>
+            </ul>
+          </div>
           <a className="navbar-brand" href={"/"}>
             <Image src={AjLogo} alt="" className="img-fluid" />
           </a>

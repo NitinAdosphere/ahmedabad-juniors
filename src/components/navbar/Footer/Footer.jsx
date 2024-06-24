@@ -11,14 +11,14 @@ const Footer = () => {
     <section className="footer">
         <div className="container">
             <div className="row">
-            <div className="col-xl-6">
-                    <ul className='social-link'>
-                <li><a href="index.html"><Image src={facebook} className='img-fluid' alt="" /></a></li>
-                <li><a href="about.html"><Image src={instagram} className='img-fluid' alt="" /></a></li>
-                <li><a href="services.html"><Image src={twitter} className='img-fluid' alt="" /></a></li>
+            <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-8">
+                <ul className='social-link'>
+                <li><a href="#"><Image src={facebook} className='img-fluid' alt="" /></a></li>
+                <li><a href="#"><Image src={instagram} className='img-fluid' alt="" /></a></li>
+                <li><a href="#"><Image src={twitter} className='img-fluid' alt="" /></a></li>
               </ul>
             </div>
-                <div className="col-xl-6">
+                <div className="col-xxl-6 col-xl-6 col-lg-6 col-md-6 col-sm-6 col-4">
                     <Image src={planeImage} className='img-fluid footer-plan' alt="" />
                 </div>
             </div>
