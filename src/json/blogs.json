@@ -5,42 +5,225 @@
       "title": "Fuel for the Day: 5 Delicious and Nutritious Tiffin Ideas for Busy Students",
       "content": "As parents prepare to send their children back to school, packing a healthy and nutritious tiffin box is a top priority. With the abundance of unhealthy snacks and junk food options available, it can be challenging to create tiffin ideas that are both delicious and good for your child's health.",
       "btn": "/images/read-more-pink.png",
-      "img": "/images/blog/1.webp"
+      "img": "/images/blog/1.webp",
+      "details": [
+        "Healthy Tiffin Ideas: Delicious and Nutritious Options for Our Busy Kids.",
+        "As parents prepare to send their children back to school, packing a healthy and nutritious tiffin box is a top priority. With the abundance of unhealthy snacks and junk food options available, it can be challenging to create tiffin ideas that are both delicious and good for your child's health. In this article, we will provide some healthy tiffin ideas that are perfect for Indian families."
+      ],
+      "listItems": [
+        {
+          "title": "Parathas:",
+          "desc": "Parathas are a popular and filling tiffin option in India. Make them healthier by using whole wheat flour and stuffing them with a variety of vegetables, such as grated carrots, chopped spinach, or mashed potatoes. You can also add a sprinkle of paneer or grated cheese for extra protein."
+        },
+        {
+          "title": "Idlis:",
+          "desc": "Idlis are a staple breakfast food in South India and make a great tiffin option. They are made from fermented batter of rice and urad dal which provides a good source of protein. You can add a twist to the traditional recipe by making them with different grains like oats or quinoa, or by stuffing them with vegetables."
+        },
+        {
+          "title": "Sprouts Salad:",
+          "desc": "Sprouts are a great source of protein, fiber, and vitamins, and make a healthy and refreshing tiffin option. Combine different sprouts like moong, chana or lentil, with chopped vegetables such as cucumber, tomatoes, and onions, and add a squeeze of lemon and chaat masala for flavor."
+        },
+        {
+          "title": "Roti Wraps:",
+          "desc": "Roti wraps are a great alternative to sandwiches and can be made with a variety of fillings. Use whole wheat rotis as the base, and fill them with grilled chicken, paneer, or tofu, along with vegetables like lettuce, onions, and bell peppers. You can also add a spread of hummus or mint chutney for extra flavor."
+        },
+        {
+          "title": "Fruit Chaat:",
+          "desc": "Fruit chaat is a sweet and tangy tiffin option that is packed with vitamins and antioxidants. Mix together a variety of seasonal fruits such as apple, banana, pomegranate, and guava, and add a sprinkle of chaat masala and lemon juice for flavor."
+        },
+        {
+          "title": "Sandwiches:",
+          "desc": "Sandwiches are a classic and versatile tiffin option. Try using whole grain bread and fillings such as lean protein (e.g. grilled chicken, turkey, or tofu), vegetables (e.g. lettuce, tomato, cucumber), and hummus or avocado spread. You can also experiment with different types of bread, such as pita, whole grain wraps, or bagels. Cheese or Paneer grill Sandwich is a very tempting and healthy option for our little ones."
+        }
+      ],
+      "footer": "In conclusion, packing a healthy and nutritious tiffin box is crucial for children's health and well being. With these healthy tiffin ideas, parents in India can provide their children with delicious and nutritious meals that will help them stay focused and energized throughout the day. By using whole grains, vegetables, and protein-rich fillings, these tiffin options provide a well-balanced diet that supports a healthy lifestyle."
     },
     {
       "id": 2,
       "title": "Juggling Parenthood and Work: Achieving the Perfect Work-Life Balance",
       "content": "As a parent, juggling work and family life can often feel like a constant struggle. It can be challenging to find the right balance between your responsibilities at work and your obligations as a parent.",
       "btn": "/images/read-more-green.png",
-      "img": "/images/blog/2.webp"
+      "img": "/images/blog/2.webp",
+      "details": [
+        "As a parent, juggling work and family life can often feel like a constant struggle. It can be challenging to find the right balance between your responsibilities at work and your obligations as a parent. However, achieving work-life balance with kids is essential for maintaining your mental and emotional well being, as well as the happiness and health of your family.",
+        "Here are some tips to help you achieve work-life balance as a parent:"
+      ],
+      "listItems": [
+        {
+          "title": "Prioritize and Schedule:",
+          "desc": "Create a schedule that works for both you and your family. Prioritize important tasks and create a plan that allocates time for both work and family responsibilities. Make sure to schedule in time for self-care as well."
+        },
+        {
+          "title": "Set Boundaries:",
+          "desc": "Communicate your boundaries to your employer and co-workers. Be clear about your working hours and availability. If necessary, consider flexible work arrangements."
+        },
+        {
+          "title": "Be Present:",
+          "desc": "When you're at home, be present with your family. Put away your phone and other distractions and focus on quality time with your children. This will help you feel more connected to your family and create a stronger bond with your children."
+        },
+        {
+          "title": "Make Time for Yourself:",
+          "desc": "It's important to make time for yourself. Find hobbies or activities that you enjoy and make time for them regularly. This will help you relax and recharge, allowing you to better manage stress and anxiety."
+        },
+        {
+          "title": "Get Help:",
+          "desc": "Don't be afraid to ask for help. Whether it's a babysitter, family member, or friend, having someone to help out with childcare can be a lifesaver. Consider joining a parent support group or online community for additional support and resources."
+        },
+        {
+          "title": "Practice Self-Care:",
+          "desc": "Taking care of yourself is essential for maintaining work-life balance with kids. Make time for exercise, healthy eating, and getting enough rest. This will help you feel more energized and able to manage the demands of both work and family."
+        },
+        {
+          "title": "Keep Perspective:",
+          "desc": "Remember that achieving work-life balance is an ongoing process. There will be times when you feel overwhelmed, and that's okay. Take a step back, reassess your priorities, and make adjustments as needed."
+        }
+      ],
+      "footer": "In conclusion, achieving work-life balance as a parent with kids is essential for your mental and emotional well being and the happiness and health of your family. By prioritizing and scheduling, setting boundaries, being present, making time for yourself, getting help, practicing self-care, and keeping perspective, you can find the right balance between work and family life."
     },
     {
       "id": 3,
       "title": "Positive, Helicopter, or Free-Range? Which Modern Parenting Style is Right for You?",
       "content": "Modern parenting styles are often influenced by changing social, cultural, and technological factors. Here are some of the most common modern parenting styles:",
       "btn": "/images/read-more-pink.png",
-      "img": "/images/blog/3.webp"
+      "img": "/images/blog/3.webp",
+      "details": [
+        "Modern parenting styles are often influenced by changing social, cultural, and technological factors. Here are some of the most common modern parenting styles:"
+      ],
+      "listItems": [
+        {
+          "title": "Positive Parenting",
+          "desc": "Positive parenting is a style of parenting that emphasizes positive communication, empathy, and respect for a child's individual needs and feelings. This style of parenting encourages parents to be involved in their child's life and to foster a positive and supportive relationship."
+        },
+        {
+          "title": "Helicopter Parenting",
+          "desc": "Helicopter parenting is a style of parenting that involves overprotective and intrusive behavior. This style of parenting can lead to children who lack independence and self-reliance.3. .Free-Range Parenting3. .Free-Range Parenting"
+        },
+        {
+          "title": "Free-Range Parenting",
+          "desc": "Free-range parenting is a style of parenting that emphasizes independence and self-reliance. This style of parenting allows children to explore and take risks, with parents providing guidance and support but also allowing their children to make mistakes and learn from them."
+        },
+        {
+          "title": "Attachment Parenting",
+          "desc": "Attachment parenting is a style of parenting that emphasizes the importance of a secure emotional bond between parent and child. This style of parenting involves practices such as baby-wearing, co-sleeping, and breastfeeding to promote this bond."
+        },
+        {
+          "title": "Conscious Parenting",
+          "desc": "Conscious parenting is a style of parenting that emphasizes mindfulness and self-awareness in the parent-child relationship. This style of parenting encourages parents to reflect on their own emotions and behavior and to respond to their child's needs with empathy and understanding."
+        }
+      ],
+      "footer": "It's important to note that these modern parenting styles are not necessarily mutually exclusive, and many parents may use a combination of these styles depending on their child's needs and their own personal beliefs and values."
     },
     {
       "id": 4,
       "title": "First Day Jitters? Tips to Help Your Child Feel Confident and Excited for School",
       "content": "Starting school can be a significant transition for young children and their parents. Here are some tips for first-time school-going kids:",
       "btn": "/images/read-more-green.png",
-      "img": "/images/blog/4.webp"
+      "img": "/images/blog/4.webp",
+      "details": [
+        "Starting school can be a significant transition for young children and their parents. Here are some tips for first-time school-going kids:"
+      ],
+      "listItems": [
+        {
+          "title": "Build a positive attitude towards school",
+          "desc": "Start building a positive attitude towards school in your child by talking about the exciting things they will learn and the new friends they will make. Explain that school is a fun and exciting place to be"
+        },
+        {
+          "title": "Visit the school beforehand",
+          "desc": "Take your child to the school before the first day to familiarize them with the surroundings. Show them the classroom, the play area, and the restroom. This will help ease any anxiety they might feel on the first day."
+        },
+        {
+          "title": "Create a routine",
+          "desc": "Establish a routine that includes an early bedtime and a set morning routine to ensure that your child is well-rested and prepared for school. This will help them adjust to the school schedule and make the mornings less stressful."
+        },
+        {
+          "title": "Label your child's belongings",
+          "desc": "Label all of your child's belongings, including their backpack, lunchbox, and water bottle. This will help prevent any confusion and make it easier for your child to keep track of their things."
+        },
+        {
+          "title": "Teach basic skills",
+          "desc": "Teach your child basic skills such as how to tie their shoes, how to use the restroom, and how to wash their hands. These skills will help them feel more confident and independent in the school setting."
+        },
+        {
+          "title": "Communicate with the teacher",
+          "desc": "Stay in touch with your child's teacher to stay informed about their progress and any issues that arise. Attend parent-teacher meetings and volunteer for school events to stay involved in your child's education."
+        },
+        {
+          "title": "Celebrate achievements",
+          "desc": "Celebrate your child's achievements, no matter how small. This will help build their confidence and motivate them to continue learning and growing."
+        }
+      ],
+      "footer": "Starting school is a significant milestone for young children, but with the right preparation and support, they can have a successful and enjoyable experience. These tips can help parents and children navigate the transition to school with confidence."
     },
     {
       "id": 5,
       "title": "Encouraging creativity and curiosity - the recipe for raising thinkers",
       "content": "Raising children who can think for themselves is a noble goal for any parent. Instead of simply following the crowd, these children will be empowered to question the status quo, develop their own ideas and beliefs, and contribute positively to the world around them.",
       "btn": "/images/read-more-pink.png",
-      "img": "/images/blog/5.webp"
+      "img": "/images/blog/5.webp",
+      "details": [
+        "Raising children who can think for themselves is a noble goal for any parent. Instead of simply following the crowd, these children will be empowered to question the status quo, develop their own ideas and beliefs, and contribute positively to the world around them. Here are some tips for young parents on how to raise thinkers, not followers:"
+      ],
+      "listItems": [
+        {
+          "title": "Encourage curiosity and exploration",
+          "desc": "Children are naturally curious and love to explore their environment. Encourage this curiosity by providing opportunities for them to learn and discover new things. Ask them questions, listen to their ideas, and show genuine interest in what they have to say. This will help foster a love of learning and exploration that will serve them well throughout their lives."
+        },
+        {
+          "title": "Emphasize critical thinking",
+          "desc": "Critical thinking is the ability to evaluate information, analyze arguments, and make logical conclusions. Encourage your children to think critically by asking them open-ended questions that require them to think deeply about a topic. For example, instead of asking, 'What did you learn in school today?' you could ask, 'What was the most interesting thing you learned today, and why do you think it's important?'"
+        },
+        {
+          "title": "Encourage creativity",
+          "desc": "Creativity is an essential component of independent thinking. Encourage your children to express themselves creatively through art, music, writing, or any other medium that interests them. This will help them develop their own unique voice and perspective."
+        },
+        {
+          "title": "Teach them to question authority",
+          "desc": "While it's important to respect authority figures, it's also important to question them when necessary. Teach your children to ask questions and challenge authority when they feel it's necessary. This will help them develop a healthy skepticism and the ability to think independently."
+        },
+        {
+          "title": "Help them develop problem-solving skills",
+          "desc": "Life is full of problems, and the ability to solve them is essential for success. Help your children develop problem-solving skills by encouraging them to work through challenges on their own. Ask them questions that help them think through the problem and develop a solution, but don't give them the answer. This will help them become more confident and independent problem-solvers."
+        },
+        {
+          "title": "Encourage a growth mindset",
+          "desc": "A growth mindset is the belief that intelligence and abilities can be developed through hard work and dedication. Encourage your children to adopt a growth mindset by praising their effort, not just their results. Teach them that failure is an opportunity to learn and grow, not a reflection of their worth."
+        },
+        {
+          "title": "Teach them to be independent",
+          "desc": "Finally, teach your children to be independent. Give them opportunities to make decisions on their own and take responsibility for their actions. This will help them develop the confidence and self-reliance they need to think for themselves."
+        }
+      ],
+      "footer": "Raising thinkers instead of followers takes time and effort, but it's well worth it. By following these tips, you can help your children develop the critical thinking, problem-solving, and creativity they need to succeed in life."
     },
     {
       "id": 6,
       "title": "बच्चे की सीखने की पद्धति",
       "content": "माता-पिता को यह सीखने की जरूरत है कि उनका बच्चा किस तरह से सीखता है। एक ही घटना को लेकर अलग-अलग बच्चों की प्रतिक्रिया भिन्न-भिन्न होती है।",
       "btn": "/images/read-more-green.png",
-      "img": "/images/blog/6.webp"
+      "img": "/images/blog/6.webp",
+      "details": [
+        "माता-पिता को यह सीखने की जरूरत है कि उनका बच्चा किस तरह से सीखता है। एक ही घटना को लेकर अलग-अलग बच्चों की प्रतिक्रिया भिन्न-भिन्न होती है। एक सरीखे माहौल में पल-बढ़ रहे बच्चों में पसन्द-नापसन्द की प्रतिक्रिया में भी विभिन्नता देखने को मिलती है। इसी तरह, सभी बच्चे एक सरीखे माहौल में सीखते हैं। अलग-अलग तरह से सीखने की प्रक्रिया और सीखाने की पद्धति को समझना अत्यंत जरूरी है। इसीलिये कहा गया है कि \"आप बच्चे को कुछ सीखाते हैं और उसे समझ न आए तो उसमें बच्चे का दोष नहीं है।\" आप कुछ इस तरह सिखाइए न कि उसे समझ में आए।",
+        "एक कुत्ते को बीमारी की वजह से जीव-जंतुओं के डॉक्टर के पास ले जाया गया, जहां डॉक्टर ने लिक्विड दवाई दी। घर पहुंचने के बाद मालिक ने कुत्ते को चम्मच के जरिए दवाई पिलाने की बहुत कोशिश की। चारों ओर से उसे पकड़कर, उसका मुंह खोलने का प्रयास किया गया। ऐसा करते वक्त दवाई की शीशी जमीन पर गिरकर टूट गई और कुत्ता जमीन पर फैली दवाई को चाटने लगा। इसका अर्थ यह कि यह सीखने की जरूरत है कि प्रत्येक जीव आपकी पद्धति को स्वीकार करता है या नहीं।"
+      ],
+      "listItems": [
+        {
+          "title": "पठन द्वारा सीखने वाले बच्चेः",
+          "desc": "एक कक्षा में तीस से चालीस फीसदी बच्चे ही ऐसे होते हैं जो पठन के जरिए सीखना पसन्द करते हैं। पठन में जिनकी रुचि होती है। पढ़ा हुआ जिन्हें याद रहता है और पठन-कार्य में जिन्हें ऊब नहीं आती। पढ़ना उन्हें आनंदमय लगता है। पठन के दौरान उनकी एकाग्रता स्थिर होती है।"
+        },
+        {
+          "title": "श्रवण द्वारा सीखने वाले बच्चेः",
+          "desc": "कक्षा में बीस फीसदी बच्चे ऐसे होते हैं जिनकी रुचि सुनकर सीखने में होती है और शिक्षक जो कहते हैं उसे सुनकर ग्रहण कर लेते हैं। सुनना उनके लिए सहज होता है। शिक्षक की आवाज, उसकी गूंज, उसका अंदाज, भाषा की मिठास, उच्चारण की गति और शिक्षक के हावभाव के साथ उनका सामंजस्य बेहतर होता है। ऐसे बच्चे पढ़कर सीखना कम पसन्द करते हैं।"
+        },
+        {
+          "title": "प्रवृत्ति के जरिए सीखने वाले बच्चेः",
+          "desc": "कक्षा में तकरीबन पंद्रह फीसदी बच्चे ऐसे होते हैं जिन्हें प्रवृत्तियों के जरिए सीखना पसन्द है। दृश्य-श्राव्य उपकरण, सीखने के साधन, प्रायोगिक उपकरण, प्रवृत्तियां और शिक्षक द्वारा उकेरी गई आकृतियां, ग्राफ, नक्शा, चार्ट एवं मॉडल्स उन्हें ज्यादा पसन्द होते हैं। इस तरह के बच्चे स्थिर बैठकर पढ़ने के बजाय घूमते-फिरते, संगीत सुनते हुए या फिर खेल-खेल में सीख लेते हैं।"
+        },
+        {
+          "title": "स्वयमेव सीखने वाले बच्चेः",
+          "desc": "कक्षा में दस फीसदी बच्चे ऐसे होते हैं जो सीखने के लिए स्वयं की पद्धतियां विकसित करते हैं जैसे कि, पठन करने के बाद लिखना, महत्वपूर्ण मुद्दों को याद रखना, मित्रों के साथ चर्चा करके सीखना आदि। कोई बच्चा किसी को समझाते-समझाते सीख लेता है। विषय में कुछ जोड़ते हुए उसे भिन्न तरीके से याद रखना, जिसमें प्रशंसा होती है उसे शीघ्रता से सीखना, शिक्षक मनोरंजन के साथ सीखाए तो जल्दी सीखना जैसे विविध प्रकार के सीखने के कौशल से बच्चे की समझ विकसित होती है।"
+        }
+      ],
+      "footer": "पढ़ाई का समय, स्थल, माहौल और व्यवस्था को लेकर भी बच्चों की रुचि भिन्न-भिन्न प्रकार की होती है। कई मामलों में प्राकृतिक क्षति वाले बच्चों को सीखने में मुश्किलों का सामना करना पड़ता है। आम तौर पर समय से पूर्व जन्म लेने वाले, प्रसूति के दौरान डॉक्टर की भूल की वजह से, माता के दूध के अभाव के कारण, बच्चे को अधिक मात्रा में दवाई देने के कारण, दृश्य या श्राव्य की कमजोरी की वजह से, पैदाइशी या आनुवंशिक कमजोरी के कारण, घर की समस्याओं के कारण, माता-पिता के बीच कलह की वजह से, उसके साथ होने वाले व्यवहार के कारण, उसके लिए जरूरी सुविधाओं में कमी की वजह से, ज्यादा छूट देने या फिर कड़े नियंत्रण की वजह से और मित्रों या कक्षा के माहौल जैसे कारणों की वजह से बच्चों में सीखने की कमजोरी आती है।"
     },
     {
       "id": 7,

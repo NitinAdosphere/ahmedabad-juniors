@@ -24,6 +24,7 @@ const Blogs = ({ totalBlog }) => {
     // Call fetchData function
     fetchData();
   }, []);
+  // console.log('firstsdfsad')
 
   return (
     <div>
@@ -31,7 +32,7 @@ const Blogs = ({ totalBlog }) => {
         <div className="container">
           {displayedBlogs &&
             displayedBlogs.map((item) => (
-              <>
+              <div key={item.id}>
                 <Image
                   src={LineImg}
                   alt="img"
@@ -63,7 +64,7 @@ const Blogs = ({ totalBlog }) => {
                           </span>
                         ))}
                       </p>
-                      <Link href={`${item.id}`}>
+                      <Link href={`/blogdetails/${item.id}`}>
                         <Image
                           src={item.btn}
                           alt="Read More"
@@ -75,7 +76,7 @@ const Blogs = ({ totalBlog }) => {
                     </div>
                   </div>
                 </div>
-              </>
+              </div>
             ))}
           <Image
             src={LineImg}

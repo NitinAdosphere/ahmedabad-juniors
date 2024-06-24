@@ -1,0 +1,44 @@
+.individual-blog-post {
+  margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* max-width: 1000px; */
+}
+.mx-width {
+  max-width: 1000px;
+}
+.individual-blog-post-title {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  align-items: end;
+}
+.individual-blog-post-title h1 {
+  text-transform: uppercase;
+  font-family: var(--font-laila);
+  font-size: 52px;
+  font-weight: 600;
+  line-height: 52px;
+}
+
+.individual-blog-post-body{
+  margin-top: 28px;
+}
+
+.individual-blog-post-body li {
+  margin: 0 0 10px;
+}
+
+.individual-blog-post-body .li-title {
+  font-weight: 700;
+  font-size: 18px;
+  font-family: var(--font-laila);
+}
+
+.individual-blog-post-body .body-title,
+.individual-blog-post-body .li-desc {
+  font-size: 18px;
+  font-family: var(--font-laila);
+}
