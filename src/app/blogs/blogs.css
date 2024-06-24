@@ -10,7 +10,6 @@
 }
 .blog-section .blog-item h3 {
   font-size: 28px;
-  line-height: 28px;
   font-family: var(--font-laila);
   font-weight: 700;
   margin-bottom: 15px;
@@ -21,4 +20,13 @@
   font-weight: 300;
   color: #2e2e2e;
   line-height: 24px;
+}
+
+@media (max-width: 480px) {
+  .blog-section{
+    padding: 40px 0;
+  }
+  .blog-section .blog-item h3{
+    margin-top: 20px;
+  }
 }

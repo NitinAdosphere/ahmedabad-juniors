@@ -67,3 +67,20 @@
     transition: all 0.3s linear;
     
 }
+@media (max-width: 768px){
+    .footer .social-link{
+        padding-left: 0;
+        top: 50px;
+    }
+}
+
+@media (max-width: 480px){
+    .footer .social-link{
+        padding-left: 0;
+        top: 0;
+    }
+    .footer li a{
+        padding: 10px 8px 10px;
+    margin: 0 4px;
+    }
+}

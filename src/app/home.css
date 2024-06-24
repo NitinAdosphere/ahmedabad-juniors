@@ -34,6 +34,15 @@
   padding: 0 30px;
   text-align: center;
   margin-top: -70px;
+  -webkit-transition: all ease-in-out .15s;
+  -o-transition: all ease-in-out .15s;
+  transition: all ease-in-out .15s;
+}
+.features-section .features-item:hover{
+  margin-top: -80px;
+  -webkit-transition: all ease-in-out .15s;
+  -o-transition: all ease-in-out .15s;
+  transition: all ease-in-out .15s;
 }
 .features-section .features-item img {
   margin-bottom: 10px;
@@ -41,7 +50,6 @@
 .features-section .features-item h6 {
   color: #2e2e2e;
   font-size: 18px;
-  line-height: 24px;
   display: block;
 }
 
@@ -172,6 +180,7 @@
   color: #161616;
   font-size: 18px;
   font-weight: 500;
+  margin-bottom: 20px;
 }
 .benefits-of-partnering .more-pink {
   position: absolute;
@@ -314,3 +323,83 @@
   transition: border-color ease-in-out .15s;
 }
 
+@media (max-width: 1699px) {
+ 
+.banner-carousel-section {
+  margin-top: -10px;
+}
+.features-section::before{
+  top: -18px;
+}
+.features-section .features-item{
+  margin-top: 0;
+}
+
+.benefits-of-partnering .bg-benefits{
+  height: 120px;
+    margin-bottom: 20px;
+}
+.benefits-of-partnering .bg-benefits br{
+  display: none;
+}
+.more-philosophy-purple, .benefits-of-partnering .more-pink{
+  position: relative;
+  text-align: right;
+}
+}
+
+@media (max-width: 480px) {
+  .banner-carousel-section .carousel-control-prev, .our-programs-section .carousel-control-prev{
+    left: 10px;
+  }
+  .banner-carousel-section .carousel-control-next, .our-programs-section .carousel-control-next{
+    right: 10px;
+  }
+  .banner-carousel-section .carousel-control-prev img, .our-programs-section .carousel-control-prev img{
+    width: 30px;
+    height: 30px;
+  }
+  .banner-carousel-section .carousel-control-next img, .our-programs-section .carousel-control-next img{
+    width: 30px;
+    height: 30px;
+  }
+  .benefits-of-partnering .bg-benefits{
+    font-size: 16px;
+    padding: 10px;
+    height: 100px;
+    margin-bottom: 20px;
+    background-size: contain;
+  }
+  .about-us-section{
+    padding: 0 20px;
+  }
+  .about-us-section h2{
+   margin-top: 0;
+  }
+  .features-section{
+    padding-bottom: 40px;
+  }
+  .features-section::before{
+    top: -10px
+  }
+  .franchise-enquiry-form{
+    background-size: cover;
+    background-position: center;
+    margin-top: 20px;
+  }
+  .features-section .features-item{
+    padding:0 20px;
+  }
+  .features-section .features-item h6{
+    font-size: 16px;
+  }
+  .features-section .features-item h6 br{
+    display: none;
+  }
+  .ahmedabad-juniors-philosophy-section{
+    padding: 40px 20px;
+  }
+  .franchise-opportunity-section{
+    padding: 0 20px;
+  }
+}

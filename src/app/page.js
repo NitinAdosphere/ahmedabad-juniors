@@ -121,8 +121,8 @@ export default function Home() {
       {/* Features-section */}
       <section className="features-section">
         <div className="container">
-          <div className="d-flex justify-content-center">
-            <div className="features-item">
+          <div className="row d-flex justify-content-center">
+            <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6 text-center features-item">
               <Image src={Feature1} alt="img" className="img-fluid mb" />
               <div>
                 <h6>
@@ -132,7 +132,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="features-item">
+            <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6 text-center features-item">
               <Image src={Feature2} alt="img" className="img-fluid" />
               <div>
                 <h6>
@@ -140,7 +140,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="features-item">
+            <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6 text-center features-item">
               <Image src={Feature3} alt="img" className="img-fluid" />
               <div>
                 <h6>
@@ -150,7 +150,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="features-item">
+            <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6 text-center features-item">
               <Image src={Feature4} alt="img" className="img-fluid" />
               <div>
                 <h6>
@@ -159,7 +159,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="features-item">
+            <div className="col-xxl-2 col-xl-2 col-lg-4 col-md-4 col-sm-4 col-6 text-center features-item">
               <Image src={Feature5} alt="img" className="img-fluid" />
               <div>
                 <h6>
@@ -211,7 +211,7 @@ export default function Home() {
             <Image src={OurCampusTitle} alt="img" className="img-fluid" />
           </h2>
           <div className="row">
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp1} alt="img" className="img-fluid" />
                 <h6>
@@ -219,7 +219,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp2} alt="img" className="img-fluid" />
                 <h6>
@@ -228,7 +228,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp3} alt="img" className="img-fluid" />
                 <h6>
@@ -237,7 +237,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp4} alt="img" className="img-fluid" />
                 <h6>
@@ -246,7 +246,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp5} alt="img" className="img-fluid" />
                 <h6>
@@ -255,7 +255,7 @@ export default function Home() {
                 </h6>
               </div>
             </div>
-            <div className="col-lg-4 text-center">
+            <div className="col-xxl-4 col-xl-4 col-lg-4 col-md-6 col-sm-6 text-center">
               <div className="camp-img">
                 <Image src={camp6} alt="img" className="img-fluid" />
                 <h6>
@@ -360,67 +360,65 @@ export default function Home() {
             <Image src={titleBenefit} alt="img" className="img-fluid" />
           </h2>
           <div className="row">
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Infrastructure & <br /> ambience design <br />
                 (set up support)
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Day to <br /> day guidance
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Equipment and <br /> teaching aids
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Researched <br />
                 curriculum
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Teachers <br /> training and <br />
                 assessment
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Marketing and <br /> Operational <br />
                 support
               </div>
             </div>
-          </div>
-          <div className="row d-flex justify-content-center mt-4">
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Advertisement <br />
                 support
               </div>
             </div>{" "}
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Continuous <br />
                 Research and <br /> development
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Social Media <br /> support
               </div>
             </div>{" "}
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Support and <br />
                 guidance in <br />
                 organising events
               </div>
             </div>
-            <div className="col-lg-2">
+            <div className="col-xxl-2 col-xl-2 col-lg-3 col-md-4 col-sm-4 col-6">
               <div className="bg-benefits">
                 Lead <br />
                 management <br /> support
