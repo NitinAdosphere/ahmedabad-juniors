@@ -4,6 +4,7 @@ import franchise1 from "../../images/franchise/franchise1.webp";
 import Image from "next/image";
 import branchimage from "../../images/franchise/branch.webp";
 import supportimage from "../../images/franchise/support.webp";
+import homeBlue from "../../images/home/home-blue.webp"
 
 const page = () => {
   return (
@@ -133,6 +134,9 @@ const page = () => {
             </div>
           </div>
         </div>
+        <a href="/" className="back-to-home">
+          <Image src={homeBlue} alt="img" className="img-fluid" />
+        </a>
       </section>
     </div>
   );

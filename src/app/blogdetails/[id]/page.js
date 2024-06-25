@@ -4,6 +4,11 @@ import Image from "next/image";
 import { useParams } from "next/navigation";
 import blogsData from "../../../json/blogs.json";
 import React, { useEffect, useState } from "react";
+import facebook from "../../../images/home/blog/facebook.webp";
+import linkedin from "../../../images/home/blog/linkedin.webp";
+import googlePlus from "../../../images/home/blog/google-plus.webp";
+import twitter from "../../../images/home/blog/twitter.webp";
+import homeBlue from "../../../images/home/home-blue.webp";
 
 const BlogDetails = () => {
   const params = useParams();
@@ -17,7 +22,7 @@ const BlogDetails = () => {
   }, [params.id]);
 
   if (!blog) {
-    return <h1>Blog not found</h1>;
+    return <h1 className=" mt-6">Blog not found</h1>;
   }
   console.log(blog);
 
@@ -56,7 +61,25 @@ const BlogDetails = () => {
           )}
           {blog.footer && <p className="body-title">{blog.footer}</p>}
         </div>
+        <div className="social-media-section">
+          <span>Share:</span>
+          <a href="">
+            <Image src={facebook} alt="img" className="img-fluid" />
+          </a>
+          <a href="">
+            <Image src={twitter} alt="img" className="img-fluid" />
+          </a>
+          <a href="">
+            <Image src={googlePlus} alt="img" className="img-fluid" />
+          </a>
+          <a href="">
+            <Image src={linkedin} alt="img" className="img-fluid" />
+          </a>
+        </div>
       </div>
+      <a href="/" className="back-to-home">
+        <Image src={homeBlue} alt="img" className="img-fluid" />
+      </a>
     </section>
   );
 };

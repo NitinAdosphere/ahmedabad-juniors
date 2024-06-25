@@ -2,7 +2,6 @@ import "./globals.css";
 import { latin, Laila } from "next/font/google";
 import "bootstrap/dist/css/bootstrap.css";
 import Navbar from "@/components/navbar/Navbar";
-import Footer from "@/components/navbar/Footer/Footer";
 import Script from "next/script";
 
 const laila = Laila({
@@ -22,7 +21,7 @@ export default function RootLayout({ children }) {
       <body className={laila.className}>
         <Navbar />
         {children}
-        <Footer />
+      
       </body>
       <Script src="/js/bootstrap.bundle.min.js" strategy="afterInteractive" />
     </html>

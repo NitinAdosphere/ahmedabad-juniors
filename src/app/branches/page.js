@@ -1,5 +1,7 @@
 import React from "react";
 import "./branches.css";
+import Image from "next/image";
+import homeBlue from "../../images/home/home-blue.webp"
 
 const page = () => {
   return (
@@ -173,14 +175,12 @@ const page = () => {
                 </div>
               </div>
             </div>
-            <a class="home-link" href="<?php echo $siteurl; ?>">
-              <img
-                src="<?php echo $siteurl; ?>images/home-blue.webp"
-                alt="Home Link"
-              />
-            </a>
+           
           </div>
         </div>
+        <a href="/" className="back-to-home">
+          <Image src={homeBlue} alt="img" className="img-fluid" />
+        </a>
       </section>
     </div>
   );

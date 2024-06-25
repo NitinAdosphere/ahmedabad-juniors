@@ -5,6 +5,7 @@ import dynamic from "next/dynamic";
 import "./gallery.css";
 import galleryimages from "../../json/gallery.json";
 import Image from "next/image";
+import homeBlue from "../../images/home/home-blue.webp"
 
 const LightGallery = dynamic(() => import("lightgallery/react"), {
   ssr: false,
@@ -54,6 +55,9 @@ const Page = () => {
           </div>
         </div>
       </section>
+      <a href="/" className="back-to-home">
+          <Image src={homeBlue} alt="img" className="img-fluid" />
+        </a>
     </div>
   );
 };

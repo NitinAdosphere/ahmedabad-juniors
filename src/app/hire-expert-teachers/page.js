@@ -2,6 +2,8 @@
 import React, { useEffect, useState } from "react";
 import "./hire-expert-teachers.css";
 import data from "../../json/hire-expert-teachers.json";
+import Image from "next/image";
+import homeBlue from "../../images/home/home-blue.webp";
 
 const Teachers = () => {
   const [teachers, setTeachers] = useState([]);
@@ -171,6 +173,9 @@ const Teachers = () => {
           </div>
         </div>
       </section>
+      <a href="/" className="back-to-home">
+        <Image src={homeBlue} alt="img" className="img-fluid" />
+      </a>
     </div>
   );
 };

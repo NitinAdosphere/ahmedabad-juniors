@@ -1,10 +1,9 @@
 .individual-blog-post {
-  margin-top: 80px;
+  margin: 80px 0;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  /* max-width: 1000px; */
 }
 .mx-width {
   max-width: 1000px;
@@ -23,7 +22,7 @@
   line-height: 52px;
 }
 
-.individual-blog-post-body{
+.individual-blog-post-body {
   margin-top: 28px;
 }
 
@@ -41,4 +40,22 @@
 .individual-blog-post-body .li-desc {
   font-size: 18px;
   font-family: var(--font-laila);
+}
+
+.social-media-section {
+  display: flex;
+  gap: 8px;
+  margin-top: 60px;
+  justify-content: end;
+  align-items: center;
+}
+
+.social-media-section span{
+  font-size: 22px;
+  font-weight: 500;
+  font-family: var(--font-laila);
+}
+
+.back-to-home{
+  margin-top: 80px;
 }

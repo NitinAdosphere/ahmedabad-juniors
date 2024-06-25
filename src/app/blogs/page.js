@@ -6,6 +6,7 @@ import { useState, useEffect } from "react";
 import data from "../../json/blogs.json";
 import LineImg from "/public/images/blog/top-line.png";
 import Link from "next/link";
+import homeBlue from "../../images/home/home-blue.webp";
 
 const Blogs = ({ totalBlog }) => {
   const [blogs, setBlogs] = useState([]);
@@ -86,6 +87,9 @@ const Blogs = ({ totalBlog }) => {
             height={30}
           />
         </div>
+        <a href="/" className="back-to-home">
+          <Image src={homeBlue} alt="img" className="img-fluid" />
+        </a>
       </section>
     </div>
   );
