@@ -1,6 +1,6 @@
 "use client";
 import Image from "next/image";
-import React from "react";
+import React, { useState } from "react";
 import { usePathname } from "next/navigation";
 import AjLogo from "../../images/common/aj-logo.webp";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -27,6 +27,37 @@ const Navbar = () => {
     "TRAGAD",
     "GHATLODIYA",
   ];
+  const [phoneNumber, setPhoneNumber] = useState("");
+  const [error, setError] = useState("");
+  const [formSubmitted, setFormSubmitted] = useState(false);
+
+  const validatePhoneNumber = (number) => {
+    const phoneNumberPattern = /^[6-9]\d{9}$/;
+    return phoneNumberPattern.test(number);
+  };
+
+  const handleChange = (e) => {
+    const { value } = e.target;
+    setPhoneNumber(value);
+    if (formSubmitted) {
+      if (!validatePhoneNumber(value)) {
+        setError("Please enter a valid 10-digit Indian phone number.");
+      } else {
+        setError("");
+      }
+    }
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    setFormSubmitted(true);
+    if (!validatePhoneNumber(phoneNumber)) {
+      setError("Please enter a valid 10-digit Indian phone number.");
+    } else {
+      setError("");
+      // Form submission logic here
+    }
+  };
   return (
     <>
       <nav className={navbarClassName}>
@@ -260,7 +291,7 @@ const Navbar = () => {
               ></button>
             </div>
             <div class="modal-body">
-              <form action="">
+              <form onSubmit={handleSubmit}>
                 <div className="row">
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-form">
                     <label>Childs Name</label>
@@ -268,8 +299,7 @@ const Navbar = () => {
                       type="text"
                       id="childname"
                       name="childname"
-                      value=""
-                      class="sm-form-control childname required"
+                      className="sm-form-control childname required"
                       required
                     />
                   </div>
@@ -279,8 +309,7 @@ const Navbar = () => {
                       type="text"
                       id="ParentsName"
                       name="ParentsName"
-                      value=""
-                      class="sm-form-control ParentsName required"
+                      className="sm-form-control ParentsName required"
                       required
                     />
                   </div>
@@ -290,34 +319,35 @@ const Navbar = () => {
                       type="email"
                       id="Email"
                       name="Email"
-                      value=""
-                      class="sm-form-control Email required"
+                      className="sm-form-control Email required"
                       required
                     />
                   </div>
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-form">
                     <label>Phone Number</label>
                     <input
-                      type="email"
+                      type="text"
                       id="PhoneNumber"
                       name="PhoneNumber"
-                      value=""
-                      class="sm-form-control PhoneNumber required"
+                      value={phoneNumber}
+                      className="sm-form-control PhoneNumber required"
+                      onChange={handleChange}
                       required
                     />
+                    {error && <p style={{ color: "red" }}>{error}</p>}
                   </div>
-
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-form">
                     <label>Select center</label>
                     <select name="" id="">
+                      <option value="" disabled selected>
+                        Please select one option
+                      </option>
                       {center &&
-                        center.map((item, index) => {
-                          return (
-                            <option key={index} value={item}>
-                              {item}
-                            </option>
-                          );
-                        })}
+                        center.map((item, index) => (
+                          <option key={index} value={item}>
+                            {item}
+                          </option>
+                        ))}
                     </select>
                   </div>
                   <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-form">
@@ -326,10 +356,19 @@ const Navbar = () => {
                       type="text"
                       id="Area"
                       name="Area"
-                      value=""
-                      class="sm-form-control Area required"
+                      className="sm-form-control Area required"
                       required
                     />
+                  </div>
+                  <div className="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-form-btn text-center">
+                    <button
+                      id="admission_submit"
+                      className="theme-btn"
+                      value="submit"
+                      type="submit"
+                    >
+                      <span>Submit</span>
+                    </button>
                   </div>
                 </div>
               </form>
