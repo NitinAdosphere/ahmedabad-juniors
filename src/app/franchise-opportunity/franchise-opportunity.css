@@ -120,8 +120,12 @@
   .own-boss-img {
     position: relative;
     top: 0px;
-    float: left;
-    margin-bottom: -100px;
+    float: none;
+    margin-bottom: 0;
     width: 100%;
-  }
+    height: auto;
+}
+.blue-bg{
+  padding: 40px 0;
+}
 }

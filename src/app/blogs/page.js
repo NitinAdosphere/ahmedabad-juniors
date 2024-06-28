@@ -46,7 +46,7 @@ const Blogs = ({ totalBlog }) => {
                     key={item.id}
                     className="row d-flex justify-content-center"
                   >
-                    <div className="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-end">
+                    <div className="col-xs-12 col-sm-12 col-md-6 col-lg-5 text-start">
                       <Image
                         src={item.img}
                         alt="img"

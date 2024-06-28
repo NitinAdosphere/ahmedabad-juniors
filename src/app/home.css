@@ -322,8 +322,12 @@
   -o-transition: border-color ease-in-out .15s;
   transition: border-color ease-in-out .15s;
 }
-
-@media (max-width: 1699px) {
+@media (1024x <=width <=1200px){
+  .franchise-enquiry-form{
+    background-size: cover;
+  }
+}
+@media (768px <=width <=1023px) {
  
 .banner-carousel-section {
   margin-top: -10px;
@@ -346,9 +350,49 @@
   position: relative;
   text-align: right;
 }
+.teachers-training-section .hire-expert-pink{
+  background-color: #534494;
+  position: relative;
+  right: 0;
+}
+.hire-expert-pink{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.hire-expert-pink a img{
+  width: 100%;
+  margin:  0 auto;
+}
+.franchise-enquiry-form{
+  width: 100%;
+}
+.franchise-enquiry-form{
+  background-size: cover;
+}
+}
+@media (568px <=width <=767px){
+  .teachers-training-section .hire-expert-pink{
+    background-color: #534494;
+    position: relative;
+    right: 0;
+  }
+  .hire-expert-pink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hire-expert-pink a img{
+    width: 100%;
+    margin:  0 auto;
+  }
+  .franchise-enquiry-form{
+    background-size: cover;
+    margin-top: 30px;
+  }
 }
 
-@media (max-width: 480px) {
+@media (320px <=width <=567px) {
   .banner-carousel-section .carousel-control-prev, .our-programs-section .carousel-control-prev{
     left: 10px;
   }
@@ -401,5 +445,48 @@
   }
   .franchise-opportunity-section{
     padding: 0 20px;
+  }
+  .teachers-training-section .hire-expert-pink{
+    background-color: #534494;
+    position: relative;
+    right: 0;
+  }
+  .hire-expert-pink{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hire-expert-pink a img{
+    width: 100%;
+    margin:  0 auto;
+  }
+  .franchise-enquiry-form{
+    background-size: cover;
+    margin-top: 30px;
+  }
+  .more-philosophy-purple{
+    position: relative;
+    right: 0;
+    display: flex;
+    justify-content: center;
+  }
+  .our-campus-section .more-brown{
+    justify-content: center;
+    margin-right: 0;
+  }
+  .benefits-of-partnering{
+    padding: 40px 0;
+  }
+  .benefits-of-partnering .more-pink{
+    position: relative;
+    right: 0;
+    display: flex;
+    justify-content: center;
+  }
+  .features-section .features-item {
+    margin-top: 20px;
+  }
+  .banner-carousel-section {
+    margin-top: 0px;
   }
 }
